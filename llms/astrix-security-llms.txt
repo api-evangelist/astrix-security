@@ -1,0 +1,1316 @@
+﻿# Astrix Security
+
+> Control and secure API keys, OAuth apps, service accounts and other NHIs. Protect your environments from unauthorized access.
+
+
+## Pages
+
+- [AI Training Program Posts - QA](https://astrix.security/ai-training-program-posts-qa/)
+- [CANDIDATES AND EMPLOYEES PRIVACY NOTICE](https://astrix.security/candidates-and-employees-privacy-notice/)
+- [[Draft/Backup from staging] Don't delete - Airfleet Anis](https://astrix.security/draft-backup-from-staging-dont-delete-airfleet-anis/): This content is password-protected. To view it, please enter the password below. Password:
+- [Lunch &amp; Learn:  February MCP Security Workshop](https://astrix.security/february-mcp-workshop/): MCP Hands-on Security Workshop
+- [RSAC 2026 Conference](https://astrix.security/rsac2026/)
+- [FAQ Block Test](https://astrix.security/faq-block-test/)
+- [Testing FAQ repeater](https://astrix.security/testing-faq-repeater/): This content is password protected. To view it please enter your password below: Password:
+- [Third-Party Risk](https://astrix.security/use-cases/third-party-risk/)
+- [Product AI Agent Discovery](https://astrix.security/product/ai-agent-discovery/)
+- [Use-case-AI-agent-threat-detection-and-response](https://astrix.security/use-cases/ai-agent-threat-detection-and-response/)
+- [Use-case-AI-agent-access-and-lifecycle-management](https://astrix.security/use-cases/ai-agent-access-and-lifecycle-management/)
+- [Product deploy-and-provisioins-ai-agent-discovery](https://astrix.security/product/deploy-and-provisions-ai-agent-discovery/)
+- [Product Secure AI Agents](https://astrix.security/product/secure-ai-agents/)
+- [Agentic AI Security](https://astrix.security/security-programs/agentic-ai-security/): Control access, reduce NHI risk, and govern AI Agents. Secure Agentic AI with Astrix’s continuous monitoring and lifecycle management.
+- [Use-case-Secure AI Agent Access](https://astrix.security/use-cases/ai-agent-discovery-and-governance/)
+- [DPF Certification Notice](https://astrix.security/dpf-certification-notice/): DPF Certification Notice Effective: May 02, 2026 This DPF notice (“Notice”) governs Astrix Security Inc. (“Astrix”, “We” or “Our”) participation...
+- [Secret Management](https://astrix.security/use-cases/secret-management/): Simplify NHI secret lifecycle management with Astrix Security—automate rotation, unify vault visibility, and eliminate policy gaps securely.
+- [Non-Human ITDR](https://astrix.security/use-cases/non-human-itdr/)
+- [NHI Governance](https://astrix.security/use-cases/nhi-governance/)
+- [Lifecycle Management](https://astrix.security/use-cases/lifecycle-management/)
+- [Compliance](https://astrix.security/use-cases/compliance/)
+- [Download the NHI Security Report](https://astrix.security/state-of-non-human-identity-security-report/): The first Non-Human Identity Security Report, based on insights from 800 security leaders.
+- [Register a deal](https://astrix.security/partners/register-a-deal/): Submit your deal with Astrix Security to equip clients with advanced non-human identity security solutions and support
+- [Become a partner](https://astrix.security/partners/become-a-partner/): Join Astrix Security’s partner program to help clients secure non-human identities, bridging critical gaps in identity management and cybersecurity.
+- [Cloud Security](https://astrix.security/security-programs/appsec/): Astrix helps engineering teams secure all access keys and tokens, both internal and external, and prevent NHI exploits.
+- [Non-Human IAM &amp; ITDR](https://astrix.security/security-programs/iam-itdr/): Extend IAM and IGA protection to Non-Human ITDR identities. Automate visibility, lifecycle management, and threat remediation with Astrix Security.
+- [Shadow AI Discovery](https://astrix.security/security-programs/shadow-ai/): Gain visibility into GenAI access across platforms like Salesforce, GitHub, and AWS. Trust Astrix for comprehensive shadow AI security solutions.
+- [NHI Lifecycle Management](https://astrix.security/product/nhi-lifecycle-management/): Control NHIs from the moment they are provisioned through permission changes, ownership assignment, rotation, revocation and expiration.
+- [Anomaly Detection](https://astrix.security/product/detect-suspicious-non-human-activity/)
+- [NHI Auto-Remediation](https://astrix.security/product/nhi-remediation/): Easily remediate NHI risks. Use out-of-the-box policies, custom workflows, enterprise integrations and end-user communication.
+- [NHI Discovery](https://astrix.security/product/discover-non-human-identities/)
+- [Next-Gen Secret Scanning](https://astrix.security/product/protect-secrets/): Easily rotate exposed secrets across cloud environments, using rich context and risk prioritization to rotate confidently.
+- [NHI Posture Management](https://astrix.security/product/reduce-your-non-human-attack-surface/): Quickly improve your security posture with a prioritized list of the top 5% NHI risks. Remediate confidently using holistic context.
+- [Thank You](https://astrix.security/thank-you/): Thank you for reaching out to Astrix Security. We’ll connect with you soon. Meanwhile, explore our resources on non-human identity security.
+- [Why Astrix](https://astrix.security/why-astrix/)
+- [Partners](https://astrix.security/partners/)
+- [Learn](https://astrix.security/learn/): Learn about NHI Security, recent attacks, expert insights and updates about the Astrix Security platform and solutions.
+- [SaaS Agreement](https://astrix.security/saas-agreement/): Review Astrix Security's SaaS Agreement, detailing terms for the subscription, usage, and compliance in non-human identity security services
+- [Book A Demo](https://astrix.security/schedule-a-live-demo/)
+- [Careers](https://astrix.security/careers/)
+- [See Astrix in Action](https://astrix.security/see-astrix-in-action/)
+- [Terms of Use](https://astrix.security/terms-of-use/): Read Astrix Security’s Terms of Use to understand the guidelines for accessing and using our non-human identity security services.
+- [Company](https://astrix.security/company/)
+- [Contact Us](https://astrix.security/contact-us/): Contact our team to ask questions about the Astrix platform, request a demo or ask for help with NHI Security.
+- [New Product Overview](https://astrix.security/product/)
+- [AI Agent Security](https://astrix.security/)
+- [Privacy Policy](https://astrix.security/privacy-policy/): ASTRIX PRIVACY POLICY Last Updated: April 28, 2026 In order to ensure transparency and give you more control over your...
+
+
+## Posts
+
+- [The Hidden Risk in Financial Services: Securing Your Non-Human Identities](https://astrix.security/blog/the-hidden-risk-in-financial-services-securing-your-non-human-identities/): In today’s digital-first financial landscape, your institution faces a critical security challenge that many organizations overlook, until it’s too late....
+
+
+## Blog
+
+- [Sub:jugation - Hijacking Cloud Identities by Recycling Namespaces in Global OIDC Issuers](https://astrix.security/learn/blog/subjugation-hijacking-cloud-identities-by-recycling-namespaces-in-global-oidc-issuers/): Executive Summary Astrix Security Research has discovered a new vulnerability class affecting GitHub Actions, GitLab CI, and Terraform Cloud, which...
+- [A New Chapter: Astrix Security is Joining Cisco](https://astrix.security/learn/blog/a-new-chapter-astrix-security-is-joining-cisco/): Today, Cisco announced its intent to acquire Astrix Security. This is a defining moment for our company, our team, and...
+- [The Auditor&#039;s Mindset Shift: Why &quot;Who Has Access?&quot; Is No Longer Enough](https://astrix.security/learn/blog/the-auditors-mindset-shift-why-who-has-access-is-no-longer-enough/): For decades, identity auditors operated on a single question: Who has access, and was it approved? It was a good...
+- [Securing LLMs, AI Agents, and MCP: Unpacking the New CIS Companion Guides ](https://astrix.security/learn/blog/securing-llms-ai-agents-and-mcp-unpacking-the-new-cis-companion-guides/): Today the Center for Internet Security (CIS) published three new Companion Guides extending the CIS Critical Security Controls to AI...
+- [What the Vercel Breach Reveals About Third-Party Integration Risk](https://astrix.security/learn/blog/what-the-vercel-breach-reveals-about-third-party-integration-risk/): On April 19, Vercel, a platform for deploying and hosting web apps, used by over 6 million developers worldwide, disclosed...
+- [AI Agents Have an Exposure Management Problem. Gartner Names Astrix as the Domain Specialist. ](https://astrix.security/learn/blog/ai-agents-have-an-exposure-management-problem-gartner-names-astrix-as-the-domain-specialist/): Most security teams have a structured program for managing exposure across their attack surface. They assess, validate, and prioritize where...
+- [A New Security Category for AI Agents: Inside SACR&#039;s AIAP Report](https://astrix.security/learn/blog/a-new-security-category-for-ai-agents-inside-sacrs-aiap-report/): Software Analyst Cyber Research (SACR) published its latest research report, “Emerging Agentic Identity Access Platforms (AIAP),” and the central argument...
+- [Set and enforce access policy for AI agents](https://astrix.security/learn/blog/set-access-policy-for-ai-agents/): Astrix now offers granular, identity-based access policies for AI agents, empowering security teams to directly control agent access permissions.
+- [Astrix and Fortinet: Combining Network Visibility With Identity Context for AI Agent Security](https://astrix.security/learn/blog/astrix-and-fortinet-combining-network-visibility-with-identity-context-for-ai-agent-security/): Astrix and Fortinet are announcing a joint integration that combines FortiGate network telemetry with Astrix’s identity context layer to give...
+- [What We&#039;re Announcing at RSAC 2026: Discovery Across Every Layer, and Control Over What Agents Can Do](https://astrix.security/learn/blog/what-were-announcing-at-rsac-2026-discovery-across-every-layer-and-control-over-what-agents-can-do/): At RSAC 2026, Astrix is announcing a four-method AI agent discovery architecture and a real-time policy engine for agent enforcement....
+- [Beyond the Prompt: Gartner Recognizes Astrix in New Report on the Future of AI Agent Security ](https://astrix.security/learn/blog/beyond-the-prompt-gartner-recognizes-astrix-in-new-report-on-the-future-of-ai-agent-security/): Gartner published a new emerging tech research, “Emerging Tech: The Future of AI Security Is in Securing Agent Actions, Not...
+- [Your AI Agent Inventory Is Wrong. Here&#039;s How to Fix It.](https://astrix.security/learn/blog/your-ai-agent-inventory-is-wrong-heres-how-to-fix-it/): This post covers how Astrix discovers AI agents across enterprise environments, including the ones security teams don&#039;t know exist. By...
+- [Astrix Named in the Gartner® Market Guide for Guardian Agents](https://astrix.security/learn/blog/market-guide-guardian-agents/): We’re proud to announce that Astrix Security has been recognized as a Representative Vendor in the inaugural Gartner® Market Guide...
+- [How to Discover &amp; Remediate OpenClaw (MoltBot) Agents with Astrix](https://astrix.security/learn/blog/how-to-discover-remediate-openclaw-moltbot-agents-with-astrix/): The emergence of OpenClaw (formerly MoltBot) has highlighted the danger lies in “Shadow AI” – autonomous agents deployed by employees...
+- [Introducing Astrix’s OpenClaw Scanner: A Practical Step Toward Reducing AI Agent Risk ](https://astrix.security/learn/blog/introducing-astrix-openclaw-moltbot-footprint-scanner/): Astrix is introducing today a complementary tool, OpenClaw Scanner, to detect deployments of the open-source AI assistant OpenClaw, also known as...
+- [OpenClaw: The Rise, Chaos, and Security Nightmare of the First Real AI Agent](https://astrix.security/learn/blog/openclaw-moltbot-the-rise-chaos-and-security-nightmare-of-the-first-real-ai-agent/): OpenClaw, the open-source AI assistant that gained 135K GitHub stars in weeks, also exposed tens of thousands of users to...
+- [Astrix Recognized in Gartner 2026 Emerging Tech Impact Radar for Identity and Access Management for AI Agents](https://astrix.security/learn/blog/astrix-gartner-2026-ai-agent-iam/): Gartner has recognized Astrix in the latest Emerging Tech Impact Radar: 2026 as a sample vendor in the Identity and...
+- [Identity: The Missing Link in Agentic AI Security - Astrix Named in New Gartner® Report](https://astrix.security/learn/blog/identity-the-missing-link-in-agentic-ai-security-astrix-named-in-new-gartner-report/): Astrix Security has been recognized as an Agentic AI Security highlighted vendor in the latest Gartner report, Emerging Tech: Top-Funded...
+- [Securing AI Agents at Scale: What’s New in Astrix](https://astrix.security/learn/blog/securing-ai-agents-at-scale/): Over the past quarter, Astrix delivered a set of focused product updates designed to help security, IAM, and AI teams...
+- [MCP Security: Understanding the Identity Risks Behind Model Context Protocol](https://astrix.security/learn/blog/astrixs-mcp-discovery/): As organizations embrace MCP, visibility and security are critical. Astrix helps you discover MCP servers across your environment, manage risks,...
+- [900K Users Compromised: Malicious AI Chrome Extensions Steal ChatGPT and DeepSeek Conversations](https://astrix.security/learn/blog/900k-users-compromised-malicious-ai-chrome-extensions-steal-chatgpt-and-deepseek-conversations/): TL;DR What happened In late December 2025, OX Security disclosed a browser extension campaign that should change how security teams...
+- [Don’t just Discover AI Agents, Understand their Risk](https://astrix.security/learn/blog/dont-just-discover-ai-agents-understand-their-risk/): The rapid adoption of agentic AI has changed the security conversation inside organizations. Instead of asking: “Is AI being used?...
+- [How the DarkSpectre Campaign Changes the Browser Extension Threat Model](https://astrix.security/learn/blog/how-the-darkspectre-campaign-changes-the-browser-extension-threat-model/): In early December 2025, Koi Security’s ShadyPanda research put a spotlight on a hard truth: a browser extension can behave...
+- [MCP’s First Year: The Missing Security Pieces Are Finally Falling Into Place (Part 2)](https://astrix.security/learn/blog/mcps-first-year-the-missing-security-pieces-are-finally-falling-into-place-part-2/): In Part 1 of this series, we examined how the Model Context Protocol (MCP) matured over its first year by...
+- [MCP’s First Year: <br>The Missing Security Pieces Are Finally Falling Into Place<br>(Part 1)](https://astrix.security/learn/blog/mcps-first-year-the-missing-security-pieces-are-finally-falling-into-place-part1/): If you’re an active user of AI Agents, and even if not, the latest updates in the Agentic AI domain...
+- [Built Different:&lt;br&gt;A Unified Threat Center for AI Agent Security](https://astrix.security/learn/blog/built-differenta-unified-threat-center-for-ai-agent-security/): If you’re in the security space today, there is a good chance your AI agents and non-human identities (NHI) are...
+- [AI Agents and the Core of IAM: Key Takeaways from the Gartner IAM Summit 2025](https://astrix.security/learn/blog/ai-agents-and-the-core-of-iam-key-takeaways-from-the-gartner-iam-summit-2025/): Another year, another Gartner IAM Summit in the books. While it was great to see old friends, it was the...
+- [The OWASP Agentic Top 10 Just Dropped – Here’s What You Need to Know](https://astrix.security/learn/blog/the-owasp-agentic-top-10-just-dropped-heres-what-you-need-to-know/): The OWASP Top 10 for Agentic Applications is officially here, marking a major shift in how the industry enables secure...
+- [ShadyPanda Browser Extension Campaign — and How Astrix Helps Organizations Stay Ahead](https://astrix.security/learn/blog/shadypanda-malware-chrome-extensions-security/): New research from Koi Security has exposed a long-running malicious browser extension operation dubbed “ShadyPanda. ” This campaign has quietly...
+- [Salesforce Revokes Gainsight App Tokens: Latest OAuth Supply Chain Breach](https://astrix.security/learn/blog/salesforce-advisor-gainsight-breach/): November 22, 2025 update: Salesforce publishes IOCs for Gainsight breach Salesforce has published a list of Indicators of Compromise (IOCs)...
+- [The first reported AI-orchestrated cyber espionage campaign: Deconstructing the Anthropic Report](https://astrix.security/learn/blog/the-first-reported-ai-orchestrated-cyber-espionage-campaign-deconstructing-the-anthropic-report/): The cybersecurity world received a wake-up call a few days ago. Anthropic disclosed it had disrupted the “first reported AI-orchestrated...
+- [Beyond the Hype: <br /> A Practitioner's Take on the AI Agent Security Challenges](https://astrix.security/learn/blog/ai-agent-security-challenges/): The conversation around AI agent security is gaining momentum, and for good reason. As enterprises adopt agentic AI, new risks...
+- [Astrix Recognized in the 2025 Gartner Emerging Tech Impact Radar: AI Cybersecurity Ecosystem](https://astrix.security/learn/blog/astrix-recognized-in-the-gartner-tech-impact-radar-ai-cybersecurity-ecosystem/): TL;DR The Significance of the AI Cybersecurity Emerging Tech Impact Radar The new Gartner Emerging Tech Impact Radar: AI Cybersecurity...
+- [State of MCP Server Security 2025: 5,200 Servers, Credential Risks, and an Open-Source Fix](https://astrix.security/learn/blog/state-of-mcp-server-security-2025/): This blog post shares the findings from the Astrix Research team’s large-scale “State of MCP Server Security 2025” research project....
+- [Astrix Named in Gartner’s Emerging Tech Impact Radar for Agentic Identity Security](https://astrix.security/learn/blog/gartner-tech-impact-radar-global-attack-surface-grid/): TL;DR Gartner defines Agentic Identities as unique, verifiable, and governable identities for AI agents that can perceive, reason, and act;...
+- [Astrix’s Agent Control Plane (ACP): Secure AI Agents from Day One](https://astrix.security/learn/blog/astrixs-agent-control-plane-acp-secure-ai-agents-from-day-one/): AI agents are transforming work at machine speed, but most still rely on wide-open, never-expiring credentials that can slip them...
+- [Meet Astrix’s AI Agent Control Plane (ACP)](https://astrix.security/learn/blog/meet-ai-agent-control-plane/): We’re thrilled to announce today the first AI Agent Control Plane (ACP) for Secure-by-Design agent deployment. ACP completes Astrix’s end-to-end...
+- [Critical Update: Astrix Research Team Discovers UNC6395 OAuth Compromise Spanning Salesforce, Google Workspace, and AWS](https://astrix.security/learn/blog/critical-update-astrix-research-team-discovers-unc6395-oauth-compromise-spanning-salesforce-google-workspace-and-aws/): Following Google Threat Intelligence Group’s (GTIG) initial disclosure of the UNC6395 campaign targeting Salesforce environments through compromised Salesloft Drift OAuth...
+- [Lessons from the GTIG Advisory on the Salesforce OAuth Token Breach](https://astrix.security/learn/blog/salesforce-oauth-token-breach-gtig-advisory/): On August 26, 2025, Google Threat Intelligence Group (GTIG) issued an advisory on a campaign targeting Salesforce instances. The threat...
+- [<b>The MCP Shift</b><br>Part 3: The Future](https://astrix.security/learn/blog/the-mcp-shift-part-3-the-future/): In Part 1, we saw where our customers had called out MCP’s early blind spots. In Part 2, we showed...
+- [<b>The MCP Shift</b><br>Part 2: The Solution](https://astrix.security/learn/blog/the-mcp-shiftpart-2-the-solution/): Despite security concerns raised in part 1 of this series, customers tell us that MCP adoption continues to accelerate. The...
+- [NHI Governance for AI Agent Security in the Age of ChatGPT-5](https://astrix.security/learn/blog/secure-chat-gpt5-with-astrix-security/): Tools like OpenAI ChatGPT and Microsoft Co-Pilot are no longer just assistants—they’re autonomous AI agents that execute tasks, connect to...
+- [How a Major Enterprise Implemented a Control Plane Layer for AI Agents Using NHI Security](https://astrix.security/learn/blog/case-study-how-a-major-brand-scaled-ai-agent-governance-with-astrix-nhi-security/): A control plane for AI agents is often described as a centralized system for governance, monitoring, and orchestration. In practice,...
+- [<b>The MCP Shift</b><br>Part 1: The Problem](https://astrix.security/learn/blog/mcp-is-the-problem/): AI agents are transforming businesses, but who’s really pulling the strings? As the Model Context Protocol (MCP) becomes the go-to...
+- [Astrix Featured in Gartner's 2025 Hype Cycle for Digital Identity](https://astrix.security/learn/blog/astrix-featured-in-gartners-2025-hype-cycle-for-digital-identity/): We’re proud to share that Astrix Security has been recognized by Gartner in its newly released Hype Cycle for Digital...
+- [Building an NHI Security Program with Astrix’s Customer Success Team: Part 1](https://astrix.security/learn/blog/building-an-nhi-security-program-with-astrixs-customer-success-team-part-1/): When organizations begin their journey with Astrix, our customer success team, made up of NHI Security experts, guides them every...
+- [Astrix Named a KuppingerCole Rising Star](https://astrix.security/learn/blog/astrix-named-a-kuppingercole-rising-star/): Astrix has been recognized as a Rising Star in KuppingerCole Analysts’ Leadership Compass for Cloud Infrastructure Entitlement Management (CIEM). The...
+- [Astrix Research Presents: Touchpoints Between AI and Non-Human Identities](https://astrix.security/learn/blog/astrix-research-presents-touchpoints-between-ai-and-non-human-identities/): A new research by Astrix and Bayer reveals the touchpoints between AI Agents and NHIs - their security risks, and best practices
+- [Astrix Security Joins Elite List of Startups Defining the Future of Cyber](https://astrix.security/learn/blog/astrix-security-joins-elite-list-of-startups-defining-the-future-of-cyber/): Astrix Security joins the Rising in Cyber 2025 list, recognized for leading non-human identity security. Discover why CISOs trust Astrix’s AI-driven approach.
+- [Gartner’s Leaders’ Guide to Modern Machine IAM](https://astrix.security/learn/blog/gartners-leaders-guide-to-modern-machine-iam/): Gartner Recognizes Astrix in Its First Leaders’ Guide for Machine Identity and Access Management. Continue reading to learn why this...
+- [Meet The NHI Security Platform Built for the AI Era](https://astrix.security/learn/blog/agentic-ai-security-starts-with-nhis-how-astrix-solves-the-hidden-identity-risk/): Astrix is proud to introduce a major expansion of our NHI security platform, which is purpose-built to secure AI agents...
+- [AI Agents vs. AI Chatbots: Understanding the Difference](https://astrix.security/learn/blog/ai-agents-vs-ai-chatbots-understanding-the-difference/): While AI chatbots respond, AI agents act. Both automate tasks, but the security implications differ significantly, primarily due to how...
+- [The Hidden Risk in Financial Services: Securing Your Non-Human Identities](https://astrix.security/learn/blog/the-hidden-risk-in-financial-services-securing-your-non-human-identities/): In today’s digital-first financial landscape, your institution faces a critical security challenge that many organizations overlook, until it’s too late....
+- [PCI DSS 4.0.1: Compliance for Non-Human Identities](https://astrix.security/learn/blog/pci-dss-4-0-1-compliance-for-non-human-identities/): The proliferation of NHIs, such as service accounts, APIs, and OAuth Apps, has significantly reshaped the attack surface, with machine...
+- [NIST Highlights NHI Governance: What You Need To Know](https://astrix.security/learn/blog/nist-highlights-nhi-governance-what-you-need-to-know/): The NIST Special Publication 800-207 acknowledges an open issue regarding Non-Person Entities (NPEs), AKA – Machine/Non-Human identities when implementing Zero...
+- [How Mature Is Your NHI Security Program?](https://astrix.security/learn/blog/approaching-nhi-security-assessing-your-current-state-and-next-steps/): Non-human identity threats are one of the fastest-growing security risks in modern environments. The issue is not just the threats...
+- [Introducing the OWASP NHI Top 10: Standardizing Non-Human Identity Security](https://astrix.security/learn/blog/introducing-the-owasp-nhi-top-10-standardizing-non-human-identity-security/): The non-human identity market has significantly matured in the past couple of years. While NHIs like service accounts, API keys,...
+- [Securing NHIs in Jira and Confluence](https://astrix.security/learn/blog/securing-nhis-in-jira-and-confluence/): Jira and Confluence are widely used collaboration and project management platforms. Jira tracksand manages work, while Confluence centralizes documentation and...
+- [Securing NHIs in NetSuite](https://astrix.security/learn/blog/securing-nhis-in-netsuite/): NetSuite is a cloud-based ERP platform centralizing critical functions like financial management, CRM, inventory, and operations. As it handles sensitive...
+- [How Astrix Will Use Series B Funding to Transform Identity Security](https://astrix.security/learn/blog/how-astrix-will-use-series-b-funding-to-transform-identity-security/): Astrix CTO Idan Gour shares his vision for identity security in the AI era following the recent Series B funding.
+- [10 Predictions for Non-Human Identity Security in 2025](https://astrix.security/learn/blog/10-predictions-for-non-human-identity-security-in-2025/): Non-human identities are emerging as a critical focus for organizations worldwide. Based on current trends, expertise, and experience in the...
+- [The Service Accounts Guide Part 2: Challenges, Compliance and Best Practices](https://astrix.security/learn/blog/the-service-account-guide-part-2-challenges-compliance-and-best-practices/): From April to early June of this year, a threat actor referred to as UNC5537 wreaked havoc on various Snowflake...
+- [The Service Accounts Guide Part 1: Origin, Types, Pitfalls and Fixes](https://astrix.security/learn/blog/the-service-accounts-guide-part-1-origin-types-pitfalls-and-fixes/): Read the first part of the Service Accounts Guide about the different types of service accounts, common pitfalls and best practices.
+- [Detect and Rotate Exposed Secrets with Astrix](https://astrix.security/learn/blog/detect-and-rotate-exposed-secrets-with-astrix/): Exposed secrets such as API keys, tokens, and other machine credentials are a critical part of your NHI risk landscape....
+- [Securing NHIs in Salesforce and NetSuite for SOX Compliance](https://astrix.security/learn/blog/securing-nhis-in-salesforce-and-netsuite-for-sox-compliance/): Platforms like Salesforce and NetSuite are essential for automating business operations and managing workflows. But these powerful tools also introduce...
+- [Employee offboarding: What about their NHIs?](https://astrix.security/learn/blog/employee-nhi-offboarding/): When employees leave, most organizations either manually remove their access or, in more mature setups, use IGA or IdP platforms...
+- [CSA and Astrix Research: The State of Non-Human Identity Security](https://astrix.security/learn/blog/csa-and-astrix-research-the-state-of-non-human-identity-security/): As NHI attacks soar, CSA and Astrix reveal critical gaps in NHI protection. New data shows that one in five...
+- [Massive NHI attack:  230 Million cloud environments were compromised](https://astrix.security/learn/blog/massive-nhi-attack-insecure-aws-stored-credentials-lead-to-compromise-of-230-million-cloud-environments/): Insecure AWS Stored Credentials Lead to Compromise of 230 Million Cloud Environments
+- [App-Specific Passwords: Origins, Functionality, Security Risks and Mitigation](https://astrix.security/learn/blog/app-specific-passwords-origins-functionality-security-risks/): To address the apparent security concerns of LSAs, Google introduced App-Specific Passwords (ASP). What are they, and are they safe?
+- [From Radio Shack to the Fortune 500 And now Astrix : My Cybersecurity Journey](https://astrix.security/learn/blog/from-radio-shack-to-the-fortune-500-and-now-astrix-my-cybersecurity-journey/): I started my career in technology at the age of 10 years old. I was a self-taught hacker who didn’t...
+- [NHI attacks making waves: Insights on latest 5 incidents](https://astrix.security/learn/blog/nhi-attacks-making-waves-insights-on-latest-5-incidents/): Non-human identity (NHI) attacks are making waves in the cybersecurity landscape, with five high-profile incidents reported in the past few...
+- [Securing non-human identities in AWS environments (and beyond)](https://astrix.security/learn/blog/securing-non-human-identities-in-aws-environments/): Non-human identities (NHIs) such as IAM users, roles, service accounts, external keys, and secrets are crucial for accessing resources within...
+- [Bridging the NHI security gap: Astrix and Torq partner up](https://astrix.security/learn/blog/bridging-the-nhi-security-gap-astrix-and-torq-partner-up/): While zero-trust policies and identity-centric programs excel at protecting user identities and login credentials with IAM policies and security tools...
+- [13 non-human identity attacks in 16 months](https://astrix.security/learn/blog/11-attacks-in-13-months-the-new-generation-of-supply-chain-attacks/): Recent attacks how how non-human identities and their ungoverned access to enterprise environments is a gold mine for attackers to gain & maintain access.
+- [Part 3: The anatomy of supply chain attacks: Non-human identities &amp; TPRM failure](https://astrix.security/learn/blog/part-3-anatomy-of-supply-chain-attacks/): “Identity is the new perimeter. ” This catch phrase is present in almost every website of identity security vendors, and...
+- [Breach analysis: Cloudflare falls victim to Okta attack](https://astrix.security/learn/blog/breach-analysis-cloudflare-falls-victim-to-okta-attack/): In a not-so-surprising turn of events, one of the victims in Okta’s supply chain attack reveals further exploits. Cloudflare recently...
+- [OAuth attack against Microsoft by Midnight Blizzard](https://astrix.security/learn/blog/oauth-attack-against-microsoft-by-midnight-blizzard/): A summary of the attack flow and recommendations on ensuring your environment is not vulnerable to such OAuth abuse.
+- [ OAuth Security Risks: How Attackers Exploit Tokens and Permissions](https://astrix.security/learn/blog/part-2-how-attackers-exploit-oauth-a-deep-dive/): “Identity is the new perimeter” has become a common phrase in security, and for good reason. Most organizations have invested...
+- [ Non-Human Identity Security: Hidden Risk from Service Accounts, Tokens &amp; NHIs](https://astrix.security/learn/blog/what-are-non-human-identities-and-why-theyre-your-biggest-blindspot/): “Identity is the new perimeter” is widely accepted in modern security. Most organizations have strong controls around human users through...
+- [Top 5 non-human identity attacks of 2023](https://astrix.security/learn/blog/top-5-non-human-access-attacks-of-2023/): Astrix research looks back at the high profile non-human access attacks in 2023, ranks the top 5, and explains what we can learn from them.
+- [Insecure Non-Human Identities in your GitHub May Trigger a Supply Chain Attack](https://astrix.security/learn/blog/insecure-third-party-connections-to-your-github-may-trigger-a-supply-chain-attack/): Unmonitored GitHub connections create a new ecosystem of supply chain dependencies that expand your attack surface and expose your organization to attacks.
+- [How to Close the Service Account Security Gap in GCP and Snowflake](https://astrix.security/learn/blog/close-service-account-security-gap-in-gcp-and-snowflake/): Discover how to mitigate risks associated with service accounts in GCP and Snowflake. Learn strategies to reduce your attack surface effectively.
+- [Practical ways to combat Generative-AI security risks](https://astrix.security/learn/blog/tips-for-genai-security/): As many have come to realize in the cyber world, all that glitters is not gold. Generative AI, and its...
+- [Not just code vulnerabilities: The overlooked cause of software supply chain attacks](https://astrix.security/learn/blog/not-just-code-vulnerabilities-the-overlooked-cause-of-software-supply-chain-attacks/): According to Gartner: “Software supply chain attacks have added a new dimension to software security problems because the software delivery...
+- [Sumo Logic: Compromised non-human identity leads to potential supply-chain exploits](https://astrix.security/learn/blog/sumo-logic-incident-guide/): Read this guide to learn what happened in the recent Sumo Logic incident and how to remediate - from Astrix Research experts
+- [The Okta breach: The results of a leaked service account](https://astrix.security/learn/blog/okta-breach-leaked-service-account/): Tal Skverer shares his insights about the recent Okta breach, what happened and how a leaked service account can cause a lot of trouble %
+- [Key takeaways about GenAI risks from Gartner reports](https://astrix.security/learn/blog/key-takeaways-about-genai-risks-from-gartner-reports/): As the buzz around GenAI security continues to grow, research reports around the burning subject continue to arise. In this...
+- [Looking Back at Our Journey in the 2023 RSA Innovation Sandbox Contest](https://astrix.security/learn/blog/looking-back-at-our-journey-in-the-2023-rsa-innovation-sandbox-contest/): With Q4 around the corner, a reflection on the year so far highlights a standout moment for us at Astrix...
+- [Securing Non-Human Identities in Google Workspace](https://astrix.security/learn/blog/securing-non-human-identities-in-google-workspace/): Google Workspace is a core productivity engine for many businesses. As such, employees are increasingly connecting third-party applications into their...
+- [Securing non-human identities in Salesforce](https://astrix.security/learn/blog/securing-non-human-identities-in-salesforce/): Salesforce environments across the world are connected to 11,225,724 AppExchange services, as well as countless other non-exchange services that can...
+- [Securing Non-Human Identities in Microsoft 365 &amp; Azure AD](https://astrix.security/learn/blog/securing-non-human-identities-in-microsoft-365-azure-ad/): To streamline workflows and maximize its functionality, Microsoft 365 & Azure Active Directory (AAD) can be connected to thousands of...
+- [Securing Non-Human Identities in Slack](https://astrix.security/learn/blog/securing-non-human-identities-in-slack/): Non-human identities accessing Slack environments expose organizations to supply chain attacks. Astrix helps prevent these risks.
+- [Forbes - Shadow Connections: How They're Impacting Your Production Environment And Software Supply Chain Security](https://astrix.security/learn/blog/forbes-shadow-connections-how-theyre-impacting-your-production-environment-and-software-supply-chain-security/): Astrix Security Co-Founder & CEO, Alon Jackson’s latest article for Forbes emphasizes the risks posed by unmonitored third-party app-to-app connections...
+- [Security Magazine - Non-human identities: Secure them now, not later](https://astrix.security/learn/blog/security-magazine-non-human-identities-secure-them-now-not-later/): Astrix CTO & Co-Founder Idan Gour shares his insights with Security Magazine about identity-related attacks being on the rise, with...
+- [GhostToken - Exploiting GCP application infrastructure to create invisible, unremovable trojan app on Google accounts](https://astrix.security/learn/blog/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/): GhostToken - Exploiting GCP application infrastructure to create invisible, unremovable trojan app on Google accounts
+- [The CircleCI breach: The results of a stolen access token](https://astrix.security/learn/blog/the-circleci-breach-the-results-of-a-stolen-access-token/): See how the CircleCI breach exposed critical access tokens, the effects on third‑party integrations, and how to harden your security.
+- [Slack&#039;s GitHub breach: 6 tips to avoid similar attacks](https://astrix.security/learn/blog/slacks-github-breach-6-tips-to-avoid-similar-attacks/): The Slack attack proves that organizations must protect API keys as vigorously as they protect passwords. Here are 6 tips...
+- [CircleCI Security Alert - Are You at Risk?](https://astrix.security/learn/blog/circleci-security-alert-are-you-at-risk/): Following a possible breach, CircleCI published a security alert urging their customers to rotate all CircleCI secrets to prevent supply chain attacks.
+- [2022 Recap: 6 Surprising Third-Party Connectivity Stats ](https://astrix.security/learn/blog/2022-recap-6-surprising-third-party-connectivity-stats/): In the perpetual race for greater productivity and agility, employees increasingly connect third-party applications to their organization’s core systems, to...
+- [Dark Reading - The Next Generation of Supply Chain Attacks is Here to Stay](https://astrix.security/learn/blog/the-next-generation-of-supply-chain-attacks-is-here-to-stay/): Astrix Security Co-Founder & CEO, Alon Jackson, has published his latest article for Dark Reading on why the new generation...
+- [20 Minute Leaders: Leadership & the Future of App-to-App Security](https://astrix.security/learn/blog/leadership-and-the-future-of-app-to-app-security/): Astrix Security Co-Founder & CEO, Alon Jackson, recently caught up with Michael Matias of 20 Minute Leaders to discuss everything...
+
+
+## Customer Stories
+
+- [RSAC 2025: How Workday Implemented NHI Security](https://astrix.security/learn/customer-stories/rsac-2025-how-workday-implemented-nhi-security/): AI might be dominating the headlines, but at this year’s RSA Conference, one theme rose to the top – non-human...
+- [How Workato Gained 360° NHI Visibility with Astrix](https://astrix.security/learn/customer-stories/how-workato-gained-360-nhi-visibility-with-astrix/): Shyam Bhojwani, Senior Director of Business Technology and Cybersecurity at Workato, oversees a dynamic intersection of IT and cybersecurity. In...
+- [Mercury Cuts Mitigation Time With Astrix](https://astrix.security/learn/customer-stories/mercury-cuts-mitigation-time-with-astrix/): How fintech company Mercury used Astrix's non-human identity security platform to speed mitigation and gain visibility.
+- [BigID Enhances GRC, TPRM and Cloud Security With Astrix ](https://astrix.security/learn/customer-stories/bigid-enhances-grc-tprm-and-cloud-security-with-astrix/): BigID automates non-human identity security, streamlines risk management and enhances visibility across SaaS and cloud environments with Astrix.
+- [Automotive Technology Provider Secures NHIs with Astrix Security](https://astrix.security/learn/customer-stories/case-study-automotive-company-secure-nhis/): Rob Preta is a Director of Cybersecurity at a large automotive technology provider based in the US. Watch the full...
+- [Boomi Controls 3rd-Party NHI Access With Astrix](https://astrix.security/learn/customer-stories/boomi-controls-3rd-party-nhi-access-with-astrix/): Why Boomi turned to Astrix for non-human identity visibility, governance and risk mitigation, and their results.
+- [Pagaya Gains Visibility &amp; Governance Over NHIs With Astrix](https://astrix.security/learn/customer-stories/pagaya-gains-visibility-governance-over-nhis-with-astrix/): Pagaya used Astrix's non-human identity security platform to gain crucial visibility into GenAI access and other NHI risks.
+- [Story 4: Detecting compromised secrets &amp; careless 3rd-party vendors](https://astrix.security/learn/customer-stories/story-4-detecting-compromised-secrets-and-careless-vendors/): Learn about real-life Astrix customer wins. This one is a story about 2 companies that leveraged behavioral analysis to prevent NHI risks.
+- [Story 3: Catching the Red-Team Red-Handed](https://astrix.security/learn/customer-stories/story-3-catching-the-red-team-red-handed/): Learn about real-life Astrix customer wins. This one is a story about a SOC team catching the Red Team in the middle of an exercise.
+- [Story 2: Reducing new risk by 97% - The automation of security awareness](https://astrix.security/learn/customer-stories/story-2-reducing-new-risk-by-97-percent/): Learn about real-life Astrix customer wins. This one is a story about automating security awareness and reducing new risk by 97%
+- [Story 1: Removing super-admin tokens across 33 GitHub tenants in 2 hours](https://astrix.security/learn/customer-stories/story-1-removing-super-admin-tokens-across-33-github-tenants-in-2-hours/): Learn about real-life Astrix customer wins. This one is a story about finding out compromised CircleCI tokens, and improving posture in GitHub.
+
+
+## Events
+
+- [RSAC 2026: The Agentic Connection Point](https://astrix.security/events/rsac2026-agentic-connection-point/): MCP Hands-on Security Workshop
+- [RSAC 2026: Astrix at Booth #4225](https://astrix.security/events/rsac2026-booth4225/): MCP Hands-on Security Workshop
+- [RSAC 2026: Executive Connections Breakfast](https://astrix.security/events/rsac2026-executive-connections/): MCP Hands-on Security Workshop
+- [RSAC 2026: MCP Security Workshop](https://astrix.security/events/rsac2026-mcp-workshop/): MCP Hands-on Security Workshop
+- [Lunch &amp; Learn:  February MCP Security Workshop](https://astrix.security/events/february-mcp-workshop/): MCP Hands-on Security Workshop
+- [Promise of AI Agent Security Market](https://astrix.security/events/promise-of-ai-agent-security-market/)
+- [Lunch &amp; Learn: MCP Security Workshop](https://astrix.security/events/mcp-security-workshop-lunch-learn/): MCP Hands-on Security Workshop
+- [Gartner Identity &amp; Access Management Summit](https://astrix.security/events/gartner-iam-2025/)
+- [Innovate Scottsdale](https://astrix.security/events/innovate-scottsdale/)
+- [Black Hat 2025](https://astrix.security/events/black-hat-2025/)
+- [Identiverse 2025](https://astrix.security/events/identiverse2025/)
+- [GPSEC New York](https://astrix.security/events/gpsec-new-york/)
+- [Innovate Nashville](https://astrix.security/events/ians-infosec-forum-d-c/)
+
+
+## Glossary
+
+- [What is an Agentic Identity?](https://astrix.security/glossary/what-is-an-agentic-identity/): Agentic identity is a digitally ephemeral identity assigned to an AI agent — a software-based system that performs tasks autonomously...
+- [What Is an MCP Server?](https://astrix.security/glossary/mcp-server/): An MCP Server (Model Context Protocol Server) is a secure framework that allows AI agents and applications to connect to...
+- [API Key](https://astrix.security/glossary/what-is-an-api-key/): Overview An API key is a unique identifier used to authenticate and authorize applications or services accessing APIs. API keys...
+- [Secret](https://astrix.security/glossary/what-is-a-secret/): Overview In cybersecurity, a secret is any piece of sensitive information — such as a password, API key, or OAuth...
+- [Least Privilege](https://astrix.security/glossary/what-is-least-privilege/): Overview The principle of least privilege (PoLP) is a foundational cybersecurity concept that dictates users, applications, and systems should have...
+- [Supply Chain Attack](https://astrix.security/glossary/what-is-a-supply-chain-attack/): Overview A supply chain attack is a cybersecurity threat in which adversaries infiltrate an organization by targeting its trusted third-party...
+- [Third-Party Integration](https://astrix.security/glossary/what-is-third-party-integration/): Overview Third-party integration refers to the process of connecting external applications, services, or platforms to an organization’s internal systems. In...
+- [Token Expiration](https://astrix.security/glossary/what-is-token-expiration/): Overview Token expiration refers to the automatic invalidation of authentication tokens after a predefined period. These tokens — often used...
+- [Credential Rotation](https://astrix.security/glossary/what-is-credential-rotation/): Overview Credential rotation is the practice of routinely updating authentication secrets such as API keys, passwords, OAuth tokens, and machine...
+- [Privileged Access Management](https://astrix.security/glossary/what-is-pam/): Overview Privileged Access Management (PAM) is the practice of securing, monitoring, and controlling access to critical systems by users or...
+- [Identity Governance and Administration (IGA)](https://astrix.security/glossary/what-is-iga/): Overview Identity Governance and Administration (IGA) is the discipline of managing who or what has access to which resources in...
+- [Cloud-Native Application Protection Platform (CNAPP)](https://astrix.security/glossary/what-is-cnapp/): Overview A Cloud-Native Application Protection Platform (CNAPP) is an integrated security solution built to protect cloud-native applications at every stage...
+- [SaaS Security Posture Management (SSPM)](https://astrix.security/glossary/what-is-sspm/): Overview SaaS Security Posture Management (SSPM) refers to the continuous monitoring and management of security risks associated with Software-as-a-Service (SaaS)...
+- [Zero Trust Security Model](https://astrix.security/glossary/what-is-zero-trust/): Overview The Zero Trust Security Model is a modern approach to cybersecurity based on the idea that no user, system,...
+- [Identity and Access Management (IAM)](https://astrix.security/glossary/what-is-iam/): Overview Identity and Access Management (IAM) is a cybersecurity framework that ensures the right individuals and systems have appropriate access...
+- [Multi-Factor Authentication (MFA)](https://astrix.security/glossary/what-is-mfa/): Overview Multi-Factor Authentication (MFA) is a security mechanism that requires users to provide multiple forms of verification before gaining access...
+- [Shadow IT](https://astrix.security/glossary/what-is-shadow-it/): Overview Shadow IT refers to the use of software, devices, and services without the explicit approval of an organization’s IT...
+- [Workload Identity Management](https://astrix.security/glossary/workload-identity-management/): Workload Identity Management is the discipline of securing and governing non-human identities (NHIs) — including API keys, service accounts, OAuth...
+- [OWASP NHI Top 10 – Human Use of NHI](https://astrix.security/glossary/human-use-nhi/): Overview Human Use of NHI occurs when humans—developers, admins, or attackers—use non-human identities (NHIs) like service accounts or API tokens...
+- [OWASP NHI Top 10 – Improper Offboarding](https://astrix.security/glossary/what-is-improper-offboarding-nhi/): Overview Improper Offboarding refers to the failure to deactivate or remove non‑human identities (NHIs)—like service accounts, machine credentials, and access...
+- [OWASP NHI Top 10 – Secret Leakage](https://astrix.security/glossary/what-is-secret-leakage/): Overview Secret Leakage refers to the unintentional exposure of sensitive credentials—such as API keys, tokens, and database passwords—that authenticate non-human...
+- [OWASP NHI Top 10 – Vulnerable Third-Party NHI](https://astrix.security/glossary/what-is-vulnerable-third-party-nhi/): Overview Vulnerable Third-Party NHIs are non-human identities—like API tokens, service credentials, or OAuth apps—issued to external vendors, services, or development...
+- [OWASP NHI Top 10 – Insecure Authentication](https://astrix.security/glossary/what-is-insecure-authentication/): Overview Insecure Authentication refers to the use of deprecated, misconfigured, or weak authentication methods to grant access to non-human identities...
+- [OWASP NHI Top 10 – Overprivileged NHI](https://astrix.security/glossary/overprivileged-nhi/): Overview Overprivileged NHIs are non-human identities—like service accounts, tokens, or automation users—that are granted excessive permissions beyond what they actually...
+- [OWASP NHI Top 10 – Insecure Cloud Deployment Configurations](https://astrix.security/glossary/insecure-cloud-deployment-configs/): Overview Insecure Cloud Deployment Configurations occur when CI/CD pipelines, service identities, or trust relationships in cloud platforms are misconfigured, leading...
+- [OWASP NHI Top 10 – Long-Lived Secrets](https://astrix.security/glossary/what-are-long-lived-secrets/): Overview Long-Lived Secrets refer to non-human identity credentials—such as API keys, access tokens, or encryption keys—that persist far longer than...
+- [OWASP NHI Top 10 – Environment Isolation](https://astrix.security/glossary/environment-isolation-nhi/): Overview Environment Isolation refers to separating cloud environments (development, staging, production) and ensuring that non-human identities (NHIs)—such as service accounts,...
+- [OWASP NHI Top 10 – NHI Reuse](https://astrix.security/glossary/nhi-reuse/): Overview NHI Reuse refers to the repeated use of a single non-human identity—such as a service account, API key, or...
+- [Model Context Protocol (MCP)](https://astrix.security/glossary/model-context-protocol-mcp/): Learn how MCP redefines AI integration for security and cloud teams—enabling scalable, real-time, and secure connectivity across tools, data, and systems.
+- [Agentic AI](https://astrix.security/glossary/agentic-ai/): Agentic AI represents a significant advancement in artificial intelligence, offering autonomous decision-making capabilities that can transform various industries. However, its...
+- [Generative AI and non-human identity security](https://astrix.security/glossary/how-generative-ai-impacts-non-human-identity-security/): Gen AI poses risks as employees connect unvetted and overly permissive AI apps to organizations' environments. Protect your system from unvetted gen AI apps.
+- [Identity Threat Detection And Response (ITDR)](https://astrix.security/glossary/what-is-identity-threat-detection-and-response/): Identity Threat Detection and Response (ITDR) is a framework that focuses on protecting your organization from being compromised by threat...
+- [Machine Credentials](https://astrix.security/glossary/what-are-machine-credentials-and-why-are-they-important-to-secure-in-your-organization/): Machine credentials are essential for secure machine communication. Learn how Astrix can help protect these digital keys from potential threats.
+- [Service Accounts](https://astrix.security/glossary/what-are-service-accounts-and-why-are-they-important-to-secure/): Service accounts identify machine services and apps, unlike human users. If exploited, they pose significant threats. Astrix helps secure non-human identities.
+- [OAuth Tokens](https://astrix.security/glossary/what-are-oauth-tokens-and-why-are-they-important-to-secure/): OAuth Tokens are an authentication mechanism delegating access for machines. If exploited, they pose significant threats. Astrix helps secure OAuth Tokens.
+- [Non-human identities](https://astrix.security/glossary/what-are-non-human-identities/): Non-human identities (NHI) are programmable access credentials that play a crucial role in ensuring the integrity of digital environments.
+
+
+## News
+
+- [CIS, Astrix, and Cequence Release New AI Security Companion Guides](https://astrix.security/learn/news/cis-astrix-and-cequence-release-new-ai-security-companion-guides/): Partnership delivers practical guidance for securing LLMs, agents, and MCP environments EAST GREENBUSH, N. Y. , NEW YORK, and SANTA...
+- [CIS, Astrix, and Cequence Unite to Deliver Actionable Guidance for Securing AI Environments](https://astrix.security/learn/news/cis-astrix-and-cequence-unite-to-deliver-actionable-guidance-for-securing-ai-environments/): Partnership combines standards, agentic AI enablement, and security controls to help enterprises innovate responsibly with AI. EAST GREENBUSH, N. Y....
+- [How Astrix is Reshaping Identity Management in the AI Era – On CyberHut Podcast](https://astrix.security/learn/news/how-astrix-reshapes-identity-management-ai-era-cyberhut-podcast/): In this episode of CyberHut TV’s vendor introduction series, host Simon Moffat interviews Alon Jackson, CEO and Co-Founder of Astrix...
+- [Astrix Security Recognized on Fortune Cyber 60 List for Breakthrough Innovation in AI Agent Security](https://astrix.security/learn/news/astrix-security-recognized-on-fortune-cyber-60-list/): Fortune honors Astrix among the fastest-growing private cybersecurity companies redefining identity security. NEW YORK — October 30, 2025 — Astrix...
+- [Astrix Researchers Uncover Credential Risk in the Majority of MCP Servers](https://astrix.security/learn/news/astrix-researchers-uncover-credential-risk-in-the-majority-of-mcp-servers/): The researchers also released today a new open-source tool, ‘MCP Secret Wrapper’, which helps eliminate systemic credential risks in AI...
+- [Astrix Security Joins Torq’s AMP Program to Amplify Agentic AI and NHI Security](https://astrix.security/learn/news/torq-agentic-ai-integration/): We’re excited to announce that Astrix Security is a launch partner in Torq’s AMP alliance program, designed to accelerate agentic...
+- [Double Win at RSAC 2025: Astrix Takes Home Two Global InfoSec Awards](https://astrix.security/learn/news/double-win-at-rsac-2025-astrix-takes-home-two-global-infosec-awards/): We’re proud to share that Astrix has been named a winner of two Global InfoSec Awards from Cyber Defense Magazine...
+- [Astrix Security Named Top Growth Company by Qumra Capital](https://astrix.security/learn/news/astrix-security-named-top-growth-company-by-qumra-capital/): Astrix Security has been recognized as one of the Top 10 Israeli Startups to Watch in 2025 by renowned venture...
+- [Securing the Future of AI Agents - An Interview with Astrix CEO Alon Jackson](https://astrix.security/learn/news/securing-the-future-of-ai-agents-an-interview-with-astrix-ceo-alon-jackson/): Alon Jackson, CEO & Co-founder of Astrix, sat down for an interview to share the story of Astrix—from its inception...
+- [Astrix’s Series B Funding: Our CTO in the NYSE Floor Talk Show](https://astrix.security/learn/news/astrixs-series-b-funding-our-cto-in-the-nyse-floor-talk-show/): We recently announced our $45 million Series B funding – a major milestone in our journey to redefine non-human identity...
+- [Astrix Raises $45M Series B to Redefine Identity Security for the AI Era](https://astrix.security/learn/news/astrix-raises-45m-series-b-to-redefine-identity-security-for-the-ai-era/): Astrix raises $45M in Series B funding to enhance identity security for human and non-human identities, empowering organizations to innovate securely.
+- [Astrix Security Recognized as a 2024 SINET16 Innovator](https://astrix.security/learn/news/astrix-recognized-as-a-2024-sinet16-innovator/): Recognized as a 2024 SINET16 Innovator, Astrix Security pioneers Non-Human Identity security, empowering organizations to innovate securely.
+- [Astrix Partners with GuidePoint Security](https://astrix.security/learn/news/astrix-partners-with-guidepoint-security/): Astrix partners with GuidePoint Security to fortify non-human identity security, tackling unmanaged service accounts and API risks for enterprises
+- [Astrix takes home three 2024 Global InfoSec Awards](https://astrix.security/learn/news/astrix-wins-three-2024-infosec-awards/): Astrix Security, the enterprise’s trusted solution for securing non-human identities, has earned three awards from Cyber Defense Magazine (CDM): “While...
+- [Astrix integrates with Slack](https://astrix.security/learn/news/astrix-integrates-with-slack/): Astrix is now available on the Slack App Directory and enables enterprises to secure non-human identities in Slack environments.
+- [Astrix partners with Google Cloud](https://astrix.security/learn/news/astrix-partners-with-google-cloud/): Astrix partners with Google Cloud to protect non-human access in Google Workspace and Google Cloud services
+- [Astrix wins 2023 CISO Choice Awards in Cloud Security Solution category](https://astrix.security/learn/news/astrix-wins-2023-ciso-choice-awards/): Astrix Security has been recognized as the winner of the 2023 CISO Choice Awards in the Cloud Security Solution category
+- [The White House mentions Astrix as one of innovators for AI security Executive Order](https://astrix.security/learn/news/the-white-house-mentions-astrix-as-one-of-innovators-for-ai-security-executive-order/): Astrix Security Joins President Biden’s Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence
+- [Astrix Security named a Cool Vendor in the 2023 Gartner Cool Vendors in Identity-First Security](https://astrix.security/learn/news/astrix-security-named-a-cool-vendor-in-the-2023-gartner-cool-vendors-in-identity-first-security/): Astrix Security was granted Cool Vendor by analyst firm Gartner for its innovative non-human identity security solution
+- [Astrix Security Raises $25M in Series A Funding](https://astrix.security/learn/news/astrix-security-raises-25m-in-series-a-funding/): The investment will allow enterprises to further secure non-human identities and safely leverage the soaring adoption of third-party apps and Generative AI services
+- [Astrix Security Takes Home Three Coveted Global InfoSec Awards](https://astrix.security/learn/news/astrix-security-takes-home-three-coveted-global-infosec-awards/): Astrix is named the winner of the prestigious Global InfoSec Award during RSA 2023.
+- [Astrix Discovers 0-Day Vulnerability in Google Cloud Platform](https://astrix.security/learn/news/astrix-discovers-0-day-vulnerability-in-google-cloud-platform/): Astrix Security uncovers 'GhostToken,' a 0-day vulnerability in Google Cloud, allowing hidden, unremovable access to Google accounts via trojan apps
+- [Astrix Security mentioned in a 2023 Gartner® report under Secure Access to Machine and Environments tool](https://astrix.security/learn/news/astrix-security-mentioned-in-a-2023-gartner-report-under-secure-access-to-machine-and-environments-tool/): Astrix Security was mentioned in a 2023 Gartner report as a tool that addresses Secure Access to Machines and Environments
+- [Astrix Security was mentioned in a 2023 Gartner® report as a Representative Vendor for SSPM](https://astrix.security/learn/news/astrix-security-was-mentioned-in-a-2023-gartner-report-as-a-representative-vendor-for-sspm/): Astrix Security was mentioned in a 2023 Gartner report as a Representative Vendor for SSPM
+- [Astrix Security is mentioned in two 2023 Gartner® reports](https://astrix.security/learn/news/astrix-security-is-mentioned-in-two-2023-gartner-reports/): Astrix Security announces it was mentioned in two 2023 Gartner reports.
+- [Astrix Security Named a Finalist for RSA Conference 2023 Innovation Sandbox](https://astrix.security/learn/news/astrix-security-named-a-finalist-for-rsa-conference-2023-innovation-sandbox/): Company’s App-to-App Security Solution Recognized in Cyber Industry’s Most Prestigious Startup Competition
+- [Security Boulevard - Supply Chain Dependency: What Your GitHub Connections May Trigger](https://astrix.security/learn/news/what-your-github-connections-may-trigger/): Astrix CEO on why the recent Circle CI and Slack breaches should be a clear call-to-action for security leaders to start securing non-human access to their GitHub. 
+- [Astrix Security Achieves SOC 2 Type 2 Certification Five Months After Emerging from Stealth](https://astrix.security/learn/news/astrix-security-achieves-soc-2-type-2-certification-five-months-after-emerging-from-stealthnbsp-strong/): The audit verifies that Astrix’s App-to-App Integration Security solution complies with the highest security principles – Astrix Security, the first...
+- [Astrix Security Named Winner of Global InfoSec Award at RSA 2022](https://astrix.security/learn/news/astrix-security-named-winner-of-global-infosec-award-at-rsa-2022/): Astrix Security wins the Global InfoSec Award at RSA 2022 for Third Party Cyber Risk Management, highlighting its innovative app-to-app security solutions
+
+
+## Videos
+
+- [The State of MCP Server Security in 2025 - Astrix and CSA CloudBytes](https://astrix.security/videos/4353/)
+- [State of MCP server security - Astrix &amp; Hackernews webinar](https://astrix.security/videos/state-of-mcp-server-security-astrix-hackernews-webinar/)
+- [Shadow AI Agents Exposed—and the Identities that Pull the Strings](https://astrix.security/videos/shadow-ai-agents-exposed/)
+- [Finding Shadow AI Agents](https://astrix.security/videos/finding-shadow-agents/)
+- [How HubSpot Budgeted &amp; Implemented NHI Security](https://astrix.security/videos/csa-nhi-summit-hubspot/)
+- [The Invisible Identities Behind AI Agents](https://astrix.security/videos/the-invisible-identities-behind-ai-agents/)
+- [AMA: Lessons from the Field](https://astrix.security/videos/ama-lessons-from-the-field/)
+- [AMA: OWASP NHI Top 10](https://astrix.security/videos/ask-me-anything-owasp-nhi-top-10/)
+- [Introducing: OWASP NHI Top 10](https://astrix.security/videos/introducing-owasp-nhi-top-10/)
+- [SANS 2025 Spring Cyber Solution Fest](https://astrix.security/videos/sans-2025-spring-cyber-solution-fest/)
+- [The State of NHI Security: Data-Driven Insights](https://astrix.security/videos/nhi-conf-data-driven-insights/): John Yeo from CSA unveils key survey insights on the state of NHI security, including top concerns, common risks, and emerging practices for managing NHIs.
+- [Making the Business Case for an NHI Security Program](https://astrix.security/videos/nhi-conf-making-the-business-case-for-nhi-security-program/): Experts discuss how to build a compelling business case for NHI security, focusing on risk prioritization, stakeholder engagement, and strategic investment.
+- [How Attackers Exploit Non-Human Identities](https://astrix.security/videos/nhi-conf-how-attackers-exploit-non-human-identities/): Francis Odom and Michael Silva show how attackers exploit NHIs in a live hacking demo, revealing methods to move across cloud environments undetected.
+- [Case Study (Part 2): How We Implemented NHI Security in Our Enterprise](https://astrix.security/videos/nhi-conf-part-2-how-we-implemented-nhi-security-in-our-enterprise/)
+- [Case Study (Part 1): How We Implemented NHI Security in Our Enterprise](https://astrix.security/videos/nhi-conf-part-1-how-we-implemented-nhi-security-in-our-enterprise/)
+- [Webinar Recap: State of Non-Human Identity Security](https://astrix.security/videos/webinar-recap-state-of-non-human-identity-security/): Discover key insights from the latest CSA webinar on the state of non-human identity security according to the latest report.
+- [Top 4 use cases of non-human identity security: Live event recap](https://astrix.security/videos/top-4-use-cases-of-non-human-identity-security-live-event-recap/): Recap of Astrix Security’s live event on top non-human identity (NHI) use cases - from lifecycle management to breach response.
+- [How attackers exploit non-human identities: Workshop recap](https://astrix.security/videos/how-attackers-exploit-non-human-identities-workshop-recap/): Recap of a full attack path exploiting non-human identities, from initial access and escalating to supply chain attack.
+
+
+## Whitepapers
+
+- [Securing the Agentic Frontier: Implementing CIS Controls with Astrix Security](https://pages.astrix.security/hubfs/CIS%20Controls/Implementing%20CIS%20Controls%20with%20Astrix%20Security.pdf): Executive Summary Astrix is an AI Agent Security Platform built to govern AI agents and the Non-Human Identities that power...
+- [Emerging Agentic Identity Access Platforms (AIAP)](https://pages.astrix.security/hubfs/SACR-%20Emerging-Agentic-Identity-Access-Platforms%20(AIAP)-Astrix.pdf)
+- [The State of Non-Human Identity Security](https://astrix.security/learn/whitepapers/the-state-of-non-human-identity-security/)
+
+#
+# Detailed Content
+
+
+## Pages
+
+- Published: 2026-03-04
+- Modified: 2026-03-04
+- URL: https://astrix.security/draft-backup-from-staging-dont-delete-airfleet-anis/
+
+- Published: 2025-12-15
+- Modified: 2025-12-15
+- URL: https://astrix.security/testing-faq-repeater/
+
+- Published: 2025-03-10
+- Modified: 2026-05-04
+- URL: https://astrix.security/dpf-certification-notice/
+
+> Review Astrix Security's SaaS Agreement, detailing terms for the subscription, usage, and compliance in non-human identity security services
+
+- Published: 2024-07-05
+- Modified: 2025-01-13
+- URL: https://astrix.security/saas-agreement/
+
+> Read Astrix Security’s Terms of Use to understand the guidelines for accessing and using our non-human identity security services.
+
+- Published: 2024-07-03
+- Modified: 2024-11-04
+- URL: https://astrix.security/terms-of-use/
+
+- Published: 2024-05-22
+- Modified: 2026-05-04
+- URL: https://astrix.security/privacy-policy/
+
+
+
+## Posts
+
+- Published: 2025-03-20
+- Modified: 2025-03-20
+- URL: https://astrix.security/blog/the-hidden-risk-in-financial-services-securing-your-non-human-identities/
+- Categories: Uncategorized
+
+
+
+## Blog
+
+- Published: 2026-06-01
+- Modified: 2026-06-07
+- URL: https://astrix.security/learn/blog/subjugation-hijacking-cloud-identities-by-recycling-namespaces-in-global-oidc-issuers/
+- Topics: Attacks, Research
+- Authors: Tal Skverer
+
+- Published: 2026-05-04
+- Modified: 2026-05-05
+- URL: https://astrix.security/learn/blog/a-new-chapter-astrix-security-is-joining-cisco/
+- Authors: Jackson-Astrix, Idan Gour
+
+- Published: 2026-04-28
+- Modified: 2026-04-30
+- URL: https://astrix.security/learn/blog/the-auditors-mindset-shift-why-who-has-access-is-no-longer-enough/
+
+- Published: 2026-04-21
+- Modified: 2026-04-21
+- URL: https://astrix.security/learn/blog/securing-llms-ai-agents-and-mcp-unpacking-the-new-cis-companion-guides/
+
+- Published: 2026-04-20
+- Modified: 2026-04-20
+- URL: https://astrix.security/learn/blog/what-the-vercel-breach-reveals-about-third-party-integration-risk/
+
+- Published: 2026-04-08
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/ai-agents-have-an-exposure-management-problem-gartner-names-astrix-as-the-domain-specialist/
+
+- Published: 2026-04-02
+- Modified: 2026-04-02
+- URL: https://astrix.security/learn/blog/a-new-security-category-for-ai-agents-inside-sacrs-aiap-report/
+
+- Published: 2026-03-30
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/set-access-policy-for-ai-agents/
+Astrix now offers granular, identity-based access policies for AI agents, empowering security teams to directly control agent access permissions.
+
+
+- Published: 2026-03-27
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/astrix-and-fortinet-combining-network-visibility-with-identity-context-for-ai-agent-security/
+
+- Published: 2026-03-23
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/what-were-announcing-at-rsac-2026-discovery-across-every-layer-and-control-over-what-agents-can-do/
+
+- Published: 2026-03-17
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/beyond-the-prompt-gartner-recognizes-astrix-in-new-report-on-the-future-of-ai-agent-security/
+
+- Published: 2026-03-11
+- Modified: 2026-03-30
+- URL: https://astrix.security/learn/blog/your-ai-agent-inventory-is-wrong-heres-how-to-fix-it/
+
+- Published: 2026-02-26
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/market-guide-guardian-agents/
+
+- Published: 2026-02-11
+- Modified: 2026-02-17
+- URL: https://astrix.security/learn/blog/how-to-discover-remediate-openclaw-moltbot-agents-with-astrix/
+
+- Published: 2026-02-09
+- Modified: 2026-02-17
+- URL: https://astrix.security/learn/blog/introducing-astrix-openclaw-moltbot-footprint-scanner/
+- Topics: Attacks, Research
+
+- Published: 2026-02-02
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/openclaw-moltbot-the-rise-chaos-and-security-nightmare-of-the-first-real-ai-agent/
+- Topics: Attacks, Research
+
+- Published: 2026-01-20
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/astrix-gartner-2026-ai-agent-iam/
+
+- Published: 2026-01-15
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/identity-the-missing-link-in-agentic-ai-security-astrix-named-in-new-gartner-report/
+
+- Published: 2026-01-14
+- Modified: 2026-02-27
+- URL: https://astrix.security/learn/blog/securing-ai-agents-at-scale/
+
+- Published: 2026-01-06
+- Modified: 2026-02-27
+- URL: https://astrix.security/learn/blog/astrixs-mcp-discovery/
+
+- Published: 2026-01-06
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/900k-users-compromised-malicious-ai-chrome-extensions-steal-chatgpt-and-deepseek-conversations/
+
+- Published: 2026-01-04
+- Modified: 2026-02-18
+- URL: https://astrix.security/learn/blog/dont-just-discover-ai-agents-understand-their-risk/
+
+- Published: 2025-12-31
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/how-the-darkspectre-campaign-changes-the-browser-extension-threat-model/
+
+- Published: 2025-12-25
+- Modified: 2026-02-06
+- URL: https://astrix.security/learn/blog/mcps-first-year-the-missing-security-pieces-are-finally-falling-into-place-part-2/
+
+- Published: 2025-12-24
+- Modified: 2025-12-25
+- URL: https://astrix.security/learn/blog/mcps-first-year-the-missing-security-pieces-are-finally-falling-into-place-part1/
+
+- Published: 2025-12-22
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/blog/built-differenta-unified-threat-center-for-ai-agent-security/
+
+- Published: 2025-12-16
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/ai-agents-and-the-core-of-iam-key-takeaways-from-the-gartner-iam-summit-2025/
+
+- Published: 2025-12-10
+- Modified: 2025-12-15
+- URL: https://astrix.security/learn/blog/the-owasp-agentic-top-10-just-dropped-heres-what-you-need-to-know/
+- Topics: Advisory, Attacks, Research
+
+- Published: 2025-12-02
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/shadypanda-malware-chrome-extensions-security/
+- Topics: Advisory, Attacks, Research
+
+- Published: 2025-11-21
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/salesforce-advisor-gainsight-breach/
+- Topics: Advisory, Attacks, Research
+
+- Published: 2025-11-17
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/the-first-reported-ai-orchestrated-cyber-espionage-campaign-deconstructing-the-anthropic-report/
+
+- Published: 2025-10-29
+- Modified: 2025-12-03
+- URL: https://astrix.security/learn/blog/ai-agent-security-challenges/
+
+- Published: 2025-10-28
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/astrix-recognized-in-the-gartner-tech-impact-radar-ai-cybersecurity-ecosystem/
+
+- Published: 2025-10-15
+- Modified: 2026-02-06
+- URL: https://astrix.security/learn/blog/state-of-mcp-server-security-2025/
+- Topics: Advisory, Attacks, Research
+
+- Published: 2025-09-25
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/gartner-tech-impact-radar-global-attack-surface-grid/
+
+- Published: 2025-09-18
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/astrixs-agent-control-plane-acp-secure-ai-agents-from-day-one/
+
+- Published: 2025-09-16
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/meet-ai-agent-control-plane/
+- Topics: Announcement, Corporate, General, Product
+
+- Published: 2025-09-02
+- Modified: 2026-04-27
+- URL: https://astrix.security/learn/blog/critical-update-astrix-research-team-discovers-unc6395-oauth-compromise-spanning-salesforce-google-workspace-and-aws/
+
+- Published: 2025-09-02
+- Modified: 2025-09-15
+- URL: https://astrix.security/learn/blog/salesforce-oauth-token-breach-gtig-advisory/
+- Topics: Advisory, Attacks, Research
+
+- Published: 2025-08-13
+- Modified: 2025-08-13
+- URL: https://astrix.security/learn/blog/the-mcp-shift-part-3-the-future/
+
+- Published: 2025-08-06
+- Modified: 2025-08-06
+- URL: https://astrix.security/learn/blog/the-mcp-shiftpart-2-the-solution/
+
+- Published: 2025-08-05
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/secure-chat-gpt5-with-astrix-security/
+- Topics: Agentic AI
+
+- Published: 2025-08-05
+- Modified: 2026-05-07
+- URL: https://astrix.security/learn/blog/case-study-how-a-major-brand-scaled-ai-agent-governance-with-astrix-nhi-security/
+- Authors: dana
+
+- Published: 2025-07-30
+- Modified: 2025-12-31
+- URL: https://astrix.security/learn/blog/mcp-is-the-problem/
+
+- Published: 2025-07-16
+- Modified: 2026-02-06
+- URL: https://astrix.security/learn/blog/astrix-featured-in-gartners-2025-hype-cycle-for-digital-identity/
+- Topics: Analysts
+
+- Published: 2025-07-03
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/building-an-nhi-security-program-with-astrixs-customer-success-team-part-1/
+- Topics: Customer Success
+
+- Published: 2025-06-25
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/astrix-named-a-kuppingercole-rising-star/
+- Topics: Analysts
+
+> A new research by Astrix and Bayer reveals the touchpoints between AI Agents and NHIs - their security risks, and best practices
+
+- Published: 2025-06-09
+- Modified: 2025-06-09
+- URL: https://astrix.security/learn/blog/astrix-research-presents-touchpoints-between-ai-and-non-human-identities/
+- Topics: Agentic AI, GenAI, Research
+
+> Astrix Security joins the Rising in Cyber 2025 list, recognized for leading non-human identity security. Discover why CISOs trust Astrix’s AI-driven approach.
+
+- Published: 2025-06-04
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/astrix-security-joins-elite-list-of-startups-defining-the-future-of-cyber/
+- Topics: General, News
+
+- Published: 2025-06-03
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/gartners-leaders-guide-to-modern-machine-iam/
+- Topics: General, News
+
+- Published: 2025-04-24
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/agentic-ai-security-starts-with-nhis-how-astrix-solves-the-hidden-identity-risk/
+- Topics: Agentic AI
+
+- Published: 2025-04-24
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/ai-agents-vs-ai-chatbots-understanding-the-difference/
+- Topics: Agentic AI
+
+- Published: 2025-03-24
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/the-hidden-risk-in-financial-services-securing-your-non-human-identities/
+
+- Published: 2025-03-03
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/pci-dss-4-0-1-compliance-for-non-human-identities/
+- Topics: Compliance
+
+- Published: 2025-02-18
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/nist-highlights-nhi-governance-what-you-need-to-know/
+- Topics: Compliance
+
+- Published: 2025-01-20
+- Modified: 2026-05-07
+- URL: https://astrix.security/learn/blog/approaching-nhi-security-assessing-your-current-state-and-next-steps/
+- Topics: General
+- Authors: michelle.harari
+
+- Published: 2025-01-07
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/blog/introducing-the-owasp-nhi-top-10-standardizing-non-human-identity-security/
+- Topics: Research
+
+- Published: 2025-01-06
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/securing-nhis-in-jira-and-confluence/
+- Topics: General
+
+- Published: 2025-01-06
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/securing-nhis-in-netsuite/
+- Topics: Corporate
+
+> Astrix CTO Idan Gour shares his vision for identity security in the AI era following the recent Series B funding.
+
+- Published: 2024-12-16
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/how-astrix-will-use-series-b-funding-to-transform-identity-security/
+- Topics: General
+
+- Published: 2024-12-12
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/10-predictions-for-non-human-identity-security-in-2025/
+- Topics: General
+
+- Published: 2024-12-04
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/the-service-account-guide-part-2-challenges-compliance-and-best-practices/
+- Topics: Guides, Research
+
+> Read the first part of the Service Accounts Guide about the different types of service accounts, common pitfalls and best practices.
+
+- Published: 2024-11-06
+- Modified: 2024-12-05
+- URL: https://astrix.security/learn/blog/the-service-accounts-guide-part-1-origin-types-pitfalls-and-fixes/
+- Topics: Guides, Research
+
+- Published: 2024-10-22
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/detect-and-rotate-exposed-secrets-with-astrix/
+- Topics: Engineering
+
+- Published: 2024-10-15
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/securing-nhis-in-salesforce-and-netsuite-for-sox-compliance/
+- Topics: Corporate
+
+- Published: 2024-09-30
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/employee-nhi-offboarding/
+- Topics: Corporate, General
+
+- Published: 2024-09-12
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/csa-and-astrix-research-the-state-of-non-human-identity-security/
+- Topics: Research
+
+> Insecure AWS Stored Credentials Lead to Compromise of 230 Million Cloud Environments
+
+- Published: 2024-08-22
+- Modified: 2024-09-07
+- URL: https://astrix.security/learn/blog/massive-nhi-attack-insecure-aws-stored-credentials-lead-to-compromise-of-230-million-cloud-environments/
+- Topics: Attacks, Research
+
+> To address the apparent security concerns of LSAs, Google introduced App-Specific Passwords (ASP). What are they, and are they safe?
+
+- Published: 2024-08-14
+- Modified: 2025-01-14
+- URL: https://astrix.security/learn/blog/app-specific-passwords-origins-functionality-security-risks/
+- Topics: Research
+
+- Published: 2024-06-26
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/from-radio-shack-to-the-fortune-500-and-now-astrix-my-cybersecurity-journey/
+- Topics: General
+
+- Published: 2024-06-14
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/nhi-attacks-making-waves-insights-on-latest-5-incidents/
+- Topics: Attacks
+
+- Published: 2024-05-28
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/securing-non-human-identities-in-aws-environments/
+- Topics: Engineering
+
+- Published: 2024-05-22
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/bridging-the-nhi-security-gap-astrix-and-torq-partner-up/
+- Topics: Partnerships
+While zero-trust policies and identity-centric programs excel at protecting user identities and login credentials with IAM policies and security tools like MFA or IP restrictions, non-human identities (NHIs) like API keys, OAuth apps, service accounts, and secrets often lack visibility, monitoring, and governance. This gap has not gone unnoticed by attackers.
+
+
+> Recent attacks how how non-human identities and their ungoverned access to enterprise environments is a gold mine for attackers to gain & maintain access.
+
+- Published: 2024-05-19
+- Modified: 2025-04-01
+- URL: https://astrix.security/learn/blog/11-attacks-in-13-months-the-new-generation-of-supply-chain-attacks/
+- Topics: Attacks
+
+- Published: 2024-02-07
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/part-3-anatomy-of-supply-chain-attacks/
+- Topics: Guides
+
+- Published: 2024-02-05
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/breach-analysis-cloudflare-falls-victim-to-okta-attack/
+- Topics: Attacks
+
+> A summary of the attack flow and recommendations on ensuring your environment is not vulnerable to such OAuth abuse.
+
+- Published: 2024-01-28
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/oauth-attack-against-microsoft-by-midnight-blizzard/
+- Topics: Attacks
+Midnight Blizzard, the Russian state-sponsored actors, were abusing OAuth applications as part of their attack against Microsoft’s corporate environment. Learn about the attack flow and get the recommended remediation steps.
+
+
+- Published: 2024-01-25
+- Modified: 2026-05-07
+- URL: https://astrix.security/learn/blog/part-2-how-attackers-exploit-oauth-a-deep-dive/
+- Topics: Guides
+- Authors: michael s
+
+- Published: 2024-01-09
+- Modified: 2026-05-07
+- URL: https://astrix.security/learn/blog/what-are-non-human-identities-and-why-theyre-your-biggest-blindspot/
+- Topics: Guides
+- Authors: Tal Skverer
+
+> Astrix research looks back at the high profile non-human access attacks in 2023, ranks the top 5, and explains what we can learn from them.
+
+- Published: 2024-01-02
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/blog/top-5-non-human-access-attacks-of-2023/
+- Topics: Attacks
+
+> Unmonitored GitHub connections create a new ecosystem of supply chain dependencies that expand your attack surface and expose your organization to attacks.
+
+- Published: 2024-01-01
+- Modified: 2025-05-13
+- URL: https://astrix.security/learn/blog/insecure-third-party-connections-to-your-github-may-trigger-a-supply-chain-attack/
+- Topics: Engineering
+Unmonitored GitHub connections create a new ecosystem of supply chain dependencies that expand your attack surface and expose your organization to attacks.
+
+
+> Discover how to mitigate risks associated with service accounts in GCP and Snowflake. Learn strategies to reduce your attack surface effectively.
+
+- Published: 2024-01-01
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/close-service-account-security-gap-in-gcp-and-snowflake/
+- Topics: Engineering
+There's a big security gap in data warehouses with 1000s of service accounts connecting them to other cloud-services. See how to reduce this attack surface
+
+
+- Published: 2023-12-07
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/tips-for-genai-security/
+- Topics: GenAI
+
+- Published: 2023-11-15
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/not-just-code-vulnerabilities-the-overlooked-cause-of-software-supply-chain-attacks/
+- Topics: Engineering
+
+> Read this guide to learn what happened in the recent Sumo Logic incident and how to remediate - from Astrix Research experts
+
+- Published: 2023-11-09
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/sumo-logic-incident-guide/
+- Topics: Attacks
+
+> Tal Skverer shares his insights about the recent Okta breach, what happened and how a leaked service account can cause a lot of trouble %
+
+- Published: 2023-11-06
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/okta-breach-leaked-service-account/
+- Topics: Attacks
+
+- Published: 2023-09-27
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/key-takeaways-about-genai-risks-from-gartner-reports/
+- Topics: GenAI
+
+- Published: 2023-08-31
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/looking-back-at-our-journey-in-the-2023-rsa-innovation-sandbox-contest/
+- Topics: General
+
+- Published: 2023-07-17
+- Modified: 2026-02-06
+- URL: https://astrix.security/learn/blog/securing-non-human-identities-in-google-workspace/
+- Topics: Corporate
+
+- Published: 2023-07-17
+- Modified: 2026-02-06
+- URL: https://astrix.security/learn/blog/securing-non-human-identities-in-salesforce/
+- Topics: Corporate
+
+- Published: 2023-07-17
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/securing-non-human-identities-in-microsoft-365-azure-ad/
+- Topics: Corporate
+
+> Non-human identities accessing Slack environments expose organizations to supply chain attacks. Astrix helps prevent these risks.
+
+- Published: 2023-07-17
+- Modified: 2024-12-02
+- URL: https://astrix.security/learn/blog/securing-non-human-identities-in-slack/
+- Topics: Corporate
+
+- Published: 2023-06-13
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/forbes-shadow-connections-how-theyre-impacting-your-production-environment-and-software-supply-chain-security/
+- Topics: General
+
+- Published: 2023-06-13
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/security-magazine-non-human-identities-secure-them-now-not-later/
+- Topics: General
+
+> GhostToken - Exploiting GCP application infrastructure to create invisible, unremovable trojan app on Google accounts
+
+- Published: 2023-04-20
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/ghosttoken-exploiting-gcp-application-infrastructure-to-create-invisible-unremovable-trojan-app-on-google-accounts/
+- Topics: Research
+
+> See how the CircleCI breach exposed critical access tokens, the effects on third‑party integrations, and how to harden your security.
+
+- Published: 2023-01-16
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/blog/the-circleci-breach-the-results-of-a-stolen-access-token/
+- Topics: Attacks
+
+- Published: 2023-01-11
+- Modified: 2026-04-22
+- URL: https://astrix.security/learn/blog/slacks-github-breach-6-tips-to-avoid-similar-attacks/
+- Topics: Attacks
+The Slack attack proves that organizations must protect API keys as vigorously as they protect passwords. Here are 6 tips to help you avoid similar attacks.
+
+
+> Following a possible breach, CircleCI published a security alert urging their customers to rotate all CircleCI secrets to prevent supply chain attacks.
+
+- Published: 2023-01-05
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/blog/circleci-security-alert-are-you-at-risk/
+- Topics: Attacks
+
+- Published: 2023-01-03
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/2022-recap-6-surprising-third-party-connectivity-stats/
+- Topics: Research
+
+- Published: 2022-11-18
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/the-next-generation-of-supply-chain-attacks-is-here-to-stay/
+- Topics: General
+
+- Published: 2022-11-10
+- Modified: 2026-02-12
+- URL: https://astrix.security/learn/blog/leadership-and-the-future-of-app-to-app-security/
+- Topics: General
+
+
+
+## Customer Stories
+
+- Published: 2025-05-26
+- Modified: 2026-02-06
+- URL: https://astrix.security/learn/customer-stories/rsac-2025-how-workday-implemented-nhi-security/
+
+- Published: 2025-01-06
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/customer-stories/how-workato-gained-360-nhi-visibility-with-astrix/
+
+> How fintech company Mercury used Astrix's non-human identity security platform to speed mitigation and gain visibility.
+
+- Published: 2024-11-07
+- Modified: 2024-11-07
+- URL: https://astrix.security/learn/customer-stories/mercury-cuts-mitigation-time-with-astrix/
+- Topics: Customer Success
+
+> BigID automates non-human identity security, streamlines risk management and enhances visibility across SaaS and cloud environments with Astrix.
+
+- Published: 2024-10-20
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/customer-stories/bigid-enhances-grc-tprm-and-cloud-security-with-astrix/
+
+- Published: 2024-08-25
+- Modified: 2025-08-13
+- URL: https://astrix.security/learn/customer-stories/case-study-automotive-company-secure-nhis/
+- Topics: Customer Success
+
+> Why Boomi turned to Astrix for non-human identity visibility, governance and risk mitigation, and their results.
+
+- Published: 2024-08-16
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/customer-stories/boomi-controls-3rd-party-nhi-access-with-astrix/
+- Topics: Customer Success
+
+> Pagaya used Astrix's non-human identity security platform to gain crucial visibility into GenAI access and other NHI risks.
+
+- Published: 2024-08-13
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/customer-stories/pagaya-gains-visibility-governance-over-nhis-with-astrix/
+- Topics: Customer Success
+
+> Learn about real-life Astrix customer wins. This one is a story about 2 companies that leveraged behavioral analysis to prevent NHI risks.
+
+- Published: 2024-07-16
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/customer-stories/story-4-detecting-compromised-secrets-and-careless-vendors/
+- Topics: Customer Success
+
+> Learn about real-life Astrix customer wins. This one is a story about a SOC team catching the Red Team in the middle of an exercise.
+
+- Published: 2024-07-02
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/customer-stories/story-3-catching-the-red-team-red-handed/
+- Topics: Customer Success
+
+> Learn about real-life Astrix customer wins. This one is a story about automating security awareness and reducing new risk by 97%
+
+- Published: 2024-05-07
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/customer-stories/story-2-reducing-new-risk-by-97-percent/
+- Topics: Customer Success
+
+> Learn about real-life Astrix customer wins. This one is a story about finding out compromised CircleCI tokens, and improving posture in GitHub.
+
+- Published: 2024-04-22
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/customer-stories/story-1-removing-super-admin-tokens-across-33-github-tenants-in-2-hours/
+- Topics: Customer Success
+
+
+
+## Events
+
+
+
+## Glossary
+
+- Published: 2025-10-27
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-an-agentic-identity/
+
+- Published: 2025-10-27
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/mcp-server/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-an-api-key/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-a-secret/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-least-privilege/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-a-supply-chain-attack/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-third-party-integration/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-token-expiration/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-credential-rotation/
+
+- Published: 2025-07-29
+- Modified: 2026-04-14
+- URL: https://astrix.security/glossary/what-is-pam/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-iga/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-cnapp/
+
+- Published: 2025-07-29
+- Modified: 2026-04-14
+- URL: https://astrix.security/glossary/what-is-sspm/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-zero-trust/
+
+- Published: 2025-07-29
+- Modified: 2026-04-22
+- URL: https://astrix.security/glossary/what-is-iam/
+
+- Published: 2025-07-29
+- Modified: 2026-04-14
+- URL: https://astrix.security/glossary/what-is-mfa/
+
+- Published: 2025-07-29
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-shadow-it/
+
+- Published: 2025-07-16
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/workload-identity-management/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/human-use-nhi/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-improper-offboarding-nhi/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-secret-leakage/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-vulnerable-third-party-nhi/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-is-insecure-authentication/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/overprivileged-nhi/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/insecure-cloud-deployment-configs/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/what-are-long-lived-secrets/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/environment-isolation-nhi/
+
+- Published: 2025-06-30
+- Modified: 2025-12-18
+- URL: https://astrix.security/glossary/nhi-reuse/
+
+> Learn how MCP redefines AI integration for security and cloud teams—enabling scalable, real-time, and secure connectivity across tools, data, and systems.
+
+- Published: 2025-04-14
+- Modified: 2025-05-15
+- URL: https://astrix.security/glossary/model-context-protocol-mcp/
+
+- Published: 2024-11-28
+- Modified: 2026-04-14
+- URL: https://astrix.security/glossary/agentic-ai/
+
+> Gen AI poses risks as employees connect unvetted and overly permissive AI apps to organizations' environments. Protect your system from unvetted gen AI apps.
+
+- Published: 2024-07-01
+- Modified: 2025-08-03
+- URL: https://astrix.security/glossary/how-generative-ai-impacts-non-human-identity-security/
+
+- Published: 2024-06-16
+- Modified: 2026-04-22
+- URL: https://astrix.security/glossary/what-is-identity-threat-detection-and-response/
+
+> Machine credentials are essential for secure machine communication. Learn how Astrix can help protect these digital keys from potential threats.
+
+- Published: 2024-05-14
+- Modified: 2025-05-15
+- URL: https://astrix.security/glossary/what-are-machine-credentials-and-why-are-they-important-to-secure-in-your-organization/
+
+> Service accounts identify machine services and apps, unlike human users. If exploited, they pose significant threats. Astrix helps secure non-human identities.
+
+- Published: 2024-05-14
+- Modified: 2025-08-03
+- URL: https://astrix.security/glossary/what-are-service-accounts-and-why-are-they-important-to-secure/
+
+> OAuth Tokens are an authentication mechanism delegating access for machines. If exploited, they pose significant threats. Astrix helps secure OAuth Tokens.
+
+- Published: 2024-05-14
+- Modified: 2025-05-15
+- URL: https://astrix.security/glossary/what-are-oauth-tokens-and-why-are-they-important-to-secure/
+
+> Non-human identities (NHI) are programmable access credentials that play a crucial role in ensuring the integrity of digital environments.
+
+- Published: 2024-03-19
+- Modified: 2025-05-15
+- URL: https://astrix.security/glossary/what-are-non-human-identities/
+
+
+
+## News
+
+- Published: 2026-04-27
+- Modified: 2026-04-27
+- URL: https://astrix.security/learn/news/cis-astrix-and-cequence-release-new-ai-security-companion-guides/
+- Topics: General, Partnerships
+
+- Published: 2025-12-03
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/news/cis-astrix-and-cequence-unite-to-deliver-actionable-guidance-for-securing-ai-environments/
+- Topics: General, Partnerships
+
+- Published: 2025-11-19
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/news/how-astrix-reshapes-identity-management-ai-era-cyberhut-podcast/
+
+- Published: 2025-10-30
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/news/astrix-security-recognized-on-fortune-cyber-60-list/
+- Topics: Awards, Corporate, General, Partnerships
+
+- Published: 2025-10-15
+- Modified: 2026-04-14
+- URL: https://astrix.security/learn/news/astrix-researchers-uncover-credential-risk-in-the-majority-of-mcp-servers/
+- Topics: Agentic AI, GenAI, Research
+
+- Published: 2025-07-29
+- Modified: 2025-07-29
+- URL: https://astrix.security/learn/news/torq-agentic-ai-integration/
+- Topics: Partnerships
+
+- Published: 2025-04-29
+- Modified: 2025-10-09
+- URL: https://astrix.security/learn/news/double-win-at-rsac-2025-astrix-takes-home-two-global-infosec-awards/
+
+- Published: 2025-04-03
+- Modified: 2025-10-09
+- URL: https://astrix.security/learn/news/astrix-security-named-top-growth-company-by-qumra-capital/
+
+- Published: 2025-03-17
+- Modified: 2025-12-16
+- URL: https://astrix.security/learn/news/securing-the-future-of-ai-agents-an-interview-with-astrix-ceo-alon-jackson/
+
+- Published: 2024-12-11
+- Modified: 2025-08-13
+- URL: https://astrix.security/learn/news/astrixs-series-b-funding-our-cto-in-the-nyse-floor-talk-show/
+
+> Astrix raises $45M in Series B funding to enhance identity security for human and non-human identities, empowering organizations to innovate securely.
+
+- Published: 2024-12-10
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/news/astrix-raises-45m-series-b-to-redefine-identity-security-for-the-ai-era/
+
+> Recognized as a 2024 SINET16 Innovator, Astrix Security pioneers Non-Human Identity security, empowering organizations to innovate securely.
+
+- Published: 2024-10-18
+- Modified: 2024-12-24
+- URL: https://astrix.security/learn/news/astrix-recognized-as-a-2024-sinet16-innovator/
+- Topics: Partnerships
+
+> Astrix partners with GuidePoint Security to fortify non-human identity security, tackling unmanaged service accounts and API risks for enterprises
+
+- Published: 2024-09-09
+- Modified: 2024-11-04
+- URL: https://astrix.security/learn/news/astrix-partners-with-guidepoint-security/
+- Topics: Partnerships
+
+- Published: 2024-05-06
+- Modified: 2025-08-13
+- URL: https://astrix.security/learn/news/astrix-wins-three-2024-infosec-awards/
+- Topics: Awards
+
+> Astrix is now available on the Slack App Directory and enables enterprises to secure non-human identities in Slack environments.
+
+- Published: 2024-02-22
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-integrates-with-slack/
+- Topics: Partnerships
+
+> Astrix partners with Google Cloud to protect non-human access in Google Workspace and Google Cloud services
+
+- Published: 2023-12-04
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-partners-with-google-cloud/
+- Topics: Partnerships
+
+> Astrix Security has been recognized as the winner of the 2023 CISO Choice Awards in the Cloud Security Solution category
+
+- Published: 2023-11-13
+- Modified: 2024-12-24
+- URL: https://astrix.security/learn/news/astrix-wins-2023-ciso-choice-awards/
+- Topics: Awards
+
+> Astrix Security Joins President Biden’s Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence
+
+- Published: 2023-11-06
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/the-white-house-mentions-astrix-as-one-of-innovators-for-ai-security-executive-order/
+- Topics: General
+
+> Astrix Security was granted Cool Vendor by analyst firm Gartner for its innovative non-human identity security solution
+
+- Published: 2023-09-11
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-security-named-a-cool-vendor-in-the-2023-gartner-cool-vendors-in-identity-first-security/
+- Topics: Analysts
+
+> The investment will allow enterprises to further secure non-human identities and safely leverage the soaring adoption of third-party apps and Generative AI services
+
+- Published: 2023-06-28
+- Modified: 2024-10-27
+- URL: https://astrix.security/learn/news/astrix-security-raises-25m-in-series-a-funding/
+- Topics: General
+
+> Astrix is named the winner of the prestigious Global InfoSec Award during RSA 2023.
+
+- Published: 2023-04-26
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-security-takes-home-three-coveted-global-infosec-awards/
+- Topics: Awards
+
+> Astrix Security uncovers 'GhostToken,' a 0-day vulnerability in Google Cloud, allowing hidden, unremovable access to Google accounts via trojan apps
+
+- Published: 2023-04-20
+- Modified: 2025-08-03
+- URL: https://astrix.security/learn/news/astrix-discovers-0-day-vulnerability-in-google-cloud-platform/
+- Topics: Research
+The vulnerability, dubbed “GhostToken”, allows attackers to gain permanent and unremovable access to a victim’s Google account by converting an already authorized third-party application into a malicious trojan app, leaving the victim’s personal data exposed forever. This may include data stored on victim’s Google apps, such as Gmail, Drive, Docs, Photos, and Calendar, or Google Cloud Platform’s services (BigQuery, Google Compute, etc.).
+
+
+> Astrix Security was mentioned in a 2023 Gartner report as a tool that addresses Secure Access to Machines and Environments
+
+- Published: 2023-04-02
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-security-mentioned-in-a-2023-gartner-report-under-secure-access-to-machine-and-environments-tool/
+- Topics: Analysts
+
+> Astrix Security was mentioned in a 2023 Gartner report as a Representative Vendor for SSPM
+
+- Published: 2023-04-02
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-security-was-mentioned-in-a-2023-gartner-report-as-a-representative-vendor-for-sspm/
+- Topics: Analysts
+
+> Astrix Security announces it was mentioned in two 2023 Gartner reports.
+
+- Published: 2023-04-02
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-security-is-mentioned-in-two-2023-gartner-reports/
+- Topics: Analysts
+
+> Company’s App-to-App Security Solution Recognized in Cyber Industry’s Most Prestigious Startup Competition
+
+- Published: 2023-03-22
+- Modified: 2024-10-20
+- URL: https://astrix.security/learn/news/astrix-security-named-a-finalist-for-rsa-conference-2023-innovation-sandbox/
+- Topics: Awards
+Company’s NHI Security Solution Recognized in Cyber Industry’s Most Prestigious Startup Competition
+
+
+> Astrix CEO on why the recent Circle CI and Slack breaches should be a clear call-to-action for security leaders to start securing non-human access to their GitHub.
+
+- Published: 2023-03-06
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/what-your-github-connections-may-trigger/
+- Topics: General
+
+- Published: 2022-07-28
+- Modified: 2024-08-05
+- URL: https://astrix.security/learn/news/astrix-security-achieves-soc-2-type-2-certification-five-months-after-emerging-from-stealthnbsp-strong/
+- Topics: Awards
+
+> Astrix Security wins the Global InfoSec Award at RSA 2022 for Third Party Cyber Risk Management, highlighting its innovative app-to-app security solutions
+
+- Published: 2022-06-06
+- Modified: 2024-11-04
+- URL: https://astrix.security/learn/news/astrix-security-named-winner-of-global-infosec-award-at-rsa-2022/
+- Topics: Awards
+Astrix wins Editor’s Choice Award in 10th Annual Global InfoSec Awards during the RSA Conference
+
+
+
+
+## Videos
+
+> Discover key insights from the latest CSA webinar on the state of non-human identity security according to the latest report.
+
+- Published: 2024-10-14
+- Modified: 2025-06-05
+- URL: https://astrix.security/videos/webinar-recap-state-of-non-human-identity-security/
+- Video Types: Virtual Event
+
+> Recap of a full attack path exploiting non-human identities, from initial access and escalating to supply chain attack.
+
+- Published: 2024-03-11
+- Modified: 2025-06-05
+- URL: https://astrix.security/videos/how-attackers-exploit-non-human-identities-workshop-recap/
+- Video Types: Virtual Event
+In the workshop we demonstrated a full attack path exploiting non-human identities, starting with initial access to AWS through an exposed secret in a public GitHub repo. We then continued to privilege escalation through a service account, gained access to source code, and managed to steal customer details and perform a supply chain attack.
+
+
+
+
+## Whitepapers
+
+- Published: 2026-04-27
+- Modified: 2026-04-29
+- URL: https://pages.astrix.security/hubfs/CIS%20Controls/Implementing%20CIS%20Controls%20with%20Astrix%20Security.pdf
+
+

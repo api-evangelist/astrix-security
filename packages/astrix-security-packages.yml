@@ -1,0 +1,23 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.npmjs.com/package/@astrixsecurity/mcp-secret-wrapper
+note: >-
+  Astrix Security ships no public product API and therefore no API-client SDKs.
+  Its only first-party published package is an open-source security utility (an
+  MCP secret-injection wrapper), catalogued here as a package, not an API SDK.
+packages:
+  - language: javascript
+    registry: npm
+    name: "@astrixsecurity/mcp-secret-wrapper"
+    version: 0.1.0
+    url: https://www.npmjs.com/package/@astrixsecurity/mcp-secret-wrapper
+    install: npx @astrixsecurity/mcp-secret-wrapper
+    repo: https://github.com/astrix-security/mcp-secret-wrapper
+    license: Apache-2.0
+    description: >-
+      Securely injects secrets from vault systems (AWS Secrets Manager, GCP
+      Secret Manager, Azure Key Vault; HashiCorp Vault in progress) into MCP
+      servers at runtime as environment variables, without exposing credentials
+      in configuration files. A wrapper utility, not an MCP server itself.
+    official: true
+    kind: cli-utility

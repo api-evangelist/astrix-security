@@ -1,21 +1,51 @@
 aid: astrix-security
 name: Astrix Security
-description: 'Astrix Security is a company surfaced as a portfolio company of crv and added to the API
-  Evangelist network as a stub for enrichment. Sector: security. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Astrix Security is a cybersecurity company providing identity security for AI
+  agents and non-human identities (NHIs) — the API keys, OAuth apps, service
+  accounts, SSH keys, and MCP servers that fall outside traditional human IAM.
+  Its platform lets enterprises discover a real-time inventory of every AI agent
+  and NHI with business and risk context, secure them by remediating excessive
+  privileges, misconfigurations, and abnormal or malicious activity, and deploy
+  agentic AI safely via an Agent Control Plane that provisions short-lived,
+  tightly scoped credentials. Founded by Alon Jackson and Idan Gour and
+  headquartered in Boston, Astrix is backed by CRV, Bessemer Venture Partners,
+  Menlo Ventures, F2, and Anthropic. The company was acquired by Cisco and ended
+  standalone sales of new licenses effective June 30, 2026.
 url: https://raw.githubusercontent.com/api-evangelist/astrix-security/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - crv
+- bessemer-venture-partners
+- menlo-ventures
+- anthropic
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-acquired-by: cisco
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://astrix.security/wp-content/uploads/2026/06/logo-astrix-cisco.svg
 tags:
 - Company
 - Security
+- Non-Human Identity
+- Identity and Access Management
+- AI Agents
+- Cybersecurity
+- Agentic AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +53,41 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/astrix-security-domain-security.yml
 - type: Website
   url: https://astrix.security/
+- type: Product
+  url: https://astrix.security/product/
+- type: Blog
+  url: https://astrix.security/learn/blog/
+- type: Support
+  url: https://astrix.security/contact-us/
+- type: About
+  url: https://astrix.security/company/
+- type: TermsOfService
+  url: https://astrix.security/terms-of-use/
+- type: PrivacyPolicy
+  url: https://astrix.security/privacy-policy/
+- type: GitHubOrganization
+  url: https://github.com/astrix-security
+- type: LinkedIn
+  url: https://www.linkedin.com/company/astrix-security/
+- type: Twitter
+  url: https://x.com/AstrixSecurity/
+- type: YouTube
+  url: https://www.youtube.com/@astrix-security
+- type: Compliance
+  url: https://www.prnewswire.com/news-releases/astrix-security-achieves-soc-2-type-2-certification-five-months-after-emerging-from-stealth-301595305.html
+  name: SOC 2 Type 2
+- type: Conformance
+  url: conformance/astrix-security-conformance.yml
+- type: Packages
+  url: packages/astrix-security-packages.yml
+- type: LLMsTxt
+  url: llms/astrix-security-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
