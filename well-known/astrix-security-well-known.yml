@@ -2,12 +2,12 @@ generated: '2026-07-18'
 method: searched
 source: live probes of https://astrix.security/.well-known/*
 host: https://astrix.security
-note: >-
-  No .well-known discovery documents are published. Astrix Security is a
-  security SaaS product with no public developer/API surface; all probes
-  returned 404. Recorded as honest absence (no WellKnown/SecurityTxt pointer
-  is wired since nothing was found).
-documents:
+note: No .well-known discovery documents are published. Astrix Security is a security SaaS product with
+  no public developer/API surface; all probes returned 404. Recorded as honest absence (no WellKnown/SecurityTxt
+  pointer is wired since nothing was found).
+hosts:
+- host: https://astrix.security
+  documents:
   - path: /.well-known/security.txt
     status: 404
   - path: /.well-known/openid-configuration
@@ -18,3 +18,8 @@ documents:
     status: 404
   - path: /.well-known/ai-plugin.json
     status: 404
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
