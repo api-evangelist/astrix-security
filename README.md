@@ -64,6 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Astrix Security is a company surfaced as a portfolio company of crv and added to the API Evangelist network as a stub for enrichment. Sector: security. This profile is a lead awaiting the enrichment pipeline.
+Astrix Security is a cybersecurity company providing identity security for AI agents and non-human identities (NHIs) — the API keys, OAuth apps, service accounts, SSH keys, and MCP servers that fall outside traditional human IAM. Its platform lets enterprises discover a real-time inventory of every AI agent and NHI with business and risk context, secure them by remediating excessive privileges, misconfigurations, and abnormal or malicious activity, and deploy agentic AI safely via an Agent Control Plane that provisions short-lived, tightly scoped credentials. Founded by Alon Jackson and Idan Gour and headquartered in Boston, Astrix is backed by CRV, Bessemer Venture Partners, Menlo Ventures, F2, and Anthropic. The company was acquired by Cisco and ended standalone sales of new licenses effective June 30, 2026.
 
-Backed by: crv — https://astrix.security/
+**Areas:** Company · Security · Non-Human Identity · Identity and Access Management · AI Agents · Cybersecurity
+
+## Astrix Security on APIs.io
+
+Everything profiled for Astrix Security is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/astrix-security/](https://apis.io/providers/astrix-security/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [Moved to /providers/astrix-security/](https://apis.io/servers/astrix-security/astrix-security/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Astrix Security Domain Security](https://apis.io/security/astrix-security/astrix-security-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://astrix.security/)
+- [Support](https://astrix.security/contact-us/)
+- [Blog](https://astrix.security/learn/blog/)
+- [Compliance](https://www.prnewswire.com/news-releases/astrix-security-achieves-soc-2-type-2-certification-five-months-after-emerging-from-stealth-301595305.html)
+- [Terms of service](https://astrix.security/terms-of-use/)
+- [Privacy policy](https://astrix.security/privacy-policy/)
+- [GitHub](https://github.com/astrix-security)
+
+## API Evangelist rating
+
+**Kin Score 16.8** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 28.9 |
+
+**Agent readiness 2.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | platform (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/astrix-security/](https://apis.io/providers/astrix-security/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Astrix Security: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/astrix-security/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
